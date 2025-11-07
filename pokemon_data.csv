@@ -1,0 +1,1026 @@
+number,name,generation,variations_paths,variation_types,minimal_variants
+0001,Bulbasaur,1,0001/;0001/0001/;0001/0000/0001/;0001/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0002,Ivysaur,1,0002/;0002/0001/;0002/0000/0001/,Normal;Altcolor;Shiny
+0003,Venusaur,1,0003/;0003/0003/;0003/0000/0001/;0003/0000/0000/0002/;0003/0000/0001/0002/;0003/0003/0000/0002/,Normal;Alternate;Shiny;Female;Shiny Female;Alternate Female
+0004,Charmander,1,0004/;0004/0001/;0004/0000/0001/;0004/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0005,Charmeleon,1,0005/;0005/0001/;0005/0000/0001/;0005/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0006,Charizard,1,0006/;0006/0001/;0006/0003/;0006/0004/;0006/0005/;0006/0000/0001/;0006/0001/0001/;0006/0003/0001/;0006/0005/0001/,Normal;Mega X;Gigantamax;Altcolor;Alternate;Shiny;Mega X Shiny;Gigantamax Shiny;Alternate Shiny
+0007,Squirtle,1,0007/;0007/0000/0001/,Normal;Shiny
+0008,Wartortle,1,0008/;0008/0001/;0008/0000/0001/;0008/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0009,Blastoise,1,0009/;0009/0004/;0009/0000/0001/,Normal;Altcolor;Shiny
+0010,Caterpie,1,0010/;0010/0000/0001/,Normal;Shiny
+0011,Metapod,1,0011/;0011/0000/0001/,Normal;Shiny
+0012,Butterfree,1,0012/;0012/0002/;0012/0000/0001/;0012/0002/0001/;0012/0000/0001/0002/;0012/0000/0000/0002/;0012/0002/0001/0002/;0012/0002/0000/0002/,Normal;Altcolor;Shiny;Altcolor Shiny;Shiny Female;Female;Altcolor Shiny Female;Altcolor Female
+0013,Weedle,1,0013/;0013/0001/;0013/0000/0001/;0013/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0014,Kakuna,1,0014/;0014/0000/0001/,Normal;Shiny
+0015,Beedrill,1,0015/;0015/0000/0001/,Normal;Shiny
+0016,Pidgey,1,0016/;0016/0000/0001/,Normal;Shiny
+0017,Pidgeotto,1,0017/;0017/0000/0001/,Normal;Shiny
+0018,Pidgeot,1,0018/;0018/0000/0001/,Normal;Shiny
+0019,Rattata,1,0019/;0019/0001/;0019/0002/;0019/0003/;0019/0000/0001/;0019/0001/0001/;0019/0002/0001/;0019/0003/0001/,Normal;Alola;Altcolor;Alternate;Shiny;Alola Shiny;Altcolor Shiny;Alternate Shiny
+0020,Raticate,1,0020/;0020/0001/;0020/0002/;0020/0000/0001/;0020/0001/0001/,Normal;Alola;Altcolor;Shiny;Alola Shiny
+0021,Spearow,1,0021/;0021/0000/0001/,Normal;Shiny
+0022,Fearow,1,0022/;0022/0000/0001/,Normal;Shiny
+0023,Ekans,1,0023/;0023/0000/0001/,Normal;Shiny
+0024,Arbok,1,0024/;0024/0001/;0024/0002/;0024/0000/0001/;0024/0001/0001/;0024/0002/0001/,Normal;Cutscene;Alternate;Shiny;Cutscene Shiny;Alternate Shiny
+0025,Pikachu,1,0025/;0025/0006/;0025/0007/;0025/0000/0001/;0025/0006/0001/;0025/0007/0001/;0025/0000/0000/0002/;0025/0000/0001/0002/,Normal;Libre;Cosplay;Shiny;Libre Shiny;Cosplay Shiny;Female;Shiny Female
+0026,Raichu,1,0026/;0026/0001/;0026/0000/0001/;0026/0001/0001/;0026/0002/0001/;0026/0000/0000/0002/;0026/0000/0001/0002/,Normal;Alola;Shiny;Alola Shiny;Altcolor Shiny;Female;Shiny Female
+0027,Sandshrew,1,0027/;0027/0001/;0027/0000/0001/;0027/0001/0001/,Normal;Alola;Shiny;Alola Shiny
+0028,Sandslash,1,0028/;0028/0001/;0028/0000/0001/;0028/0001/0001/,Normal;Alola;Shiny;Alola Shiny
+0029,Nidoran F,1,0029/;0029/0000/0001/,Normal;Shiny
+0030,Nidorina,1,0030/;0030/0001/;0030/0000/0001/,Normal;Altcolor;Shiny
+0031,Nidoqueen,1,0031/;0031/0001/;0031/0000/0001/;0031/0001/0001/,Normal;Alternate;Shiny;Alternate Shiny
+0032,Nidoran F,1,0032/;0032/0001/;0032/0000/0001/,Normal;Altcolor;Shiny
+0033,Nidorino,1,0033/;0033/0001/;0033/0000/0001/,Normal;Altcolor;Shiny
+0034,Nidoking,1,0034/;0034/0001/;0034/0000/0001/,Normal;Altcolor;Shiny
+0035,Clefairy,1,0035/;0035/0000/0001/,Normal;Shiny
+0036,Clefable,1,0036/;0036/0000/0001/,Normal;Shiny
+0037,Vulpix,1,0037/;0037/0001/;0037/0002/;0037/0003/;0037/0000/0001/;0037/0001/0001/,Normal;Alola;Altcolor;Alternate;Shiny;Alola Shiny
+0038,Ninetales,1,0038/;0038/0001/;0038/0002/;0038/0003/;0038/0004/;0038/0000/0001/;0038/0001/0001/;0038/0002/0001/;0038/0003/0001/;0038/0004/0001/,Normal;Alola;Altcolor;Cutscene;Alternate;Shiny;Alola Shiny;Altcolor Shiny;Cutscene Shiny;Alternate Shiny
+0039,Jigglypuff,1,0039/;0039/0002/;0039/0000/0001/,Normal;Altcolor;Shiny
+0040,Wigglytuff,1,0040/;0040/0002/;0040/0004/;0040/0000/0001/;0040/0002/0001/;0040/0004/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny;Altcolor Shiny
+0041,Zubat,1,0041/;0041/0001/;0041/0002/;0041/0000/0001/;0041/0001/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny
+0042,Golbat,1,0042/;0042/0001/;0042/0002/;0042/0000/0001/;0042/0001/0001/,Normal;Alternate;Altcolor;Shiny;Alternate Shiny
+0043,Oddish,1,0043/;0043/0000/0001/,Normal;Shiny
+0044,Gloom,1,0044/;0044/0001/;0044/0000/0001/;0044/0000/0000/0002/;0044/0000/0001/0002/;0044/0001/0000/0002/,Normal;Altcolor;Shiny;Female;Shiny Female;Altcolor Female
+0045,Vileplume,1,0045/;0045/0001/;0045/0000/0001/;0045/0000/0001/0002/;0045/0000/0000/0002/;0045/0001/0000/0002/,Normal;Altcolor;Shiny;Shiny Female;Female;Altcolor Female
+0046,Paras,1,0046/;0046/0001/;0046/0000/0001/,Normal;Altcolor;Shiny
+0047,Parasect,1,0047/;0047/0001/;0047/0000/0001/;0047/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0048,Venonat,1,0048/;0048/0001/;0048/0000/0001/;0048/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0049,Venomoth,1,0049/;0049/0001/;0049/0000/0001/,Normal;Altcolor;Shiny
+0050,Diglett,1,0050/;0050/0001/;0050/0003/;0050/0000/0001/;0050/0001/0001/;0050/0003/0001/,Normal;Alola;Cutscene;Shiny;Alola Shiny;Cutscene Shiny
+0051,Dugtrio,1,0051/;0051/0001/;0051/0002/;0051/0000/0001/;0051/0001/0001/;0051/0002/0001/,Normal;Alola;Cutscene;Shiny;Alola Shiny;Cutscene Shiny
+0052,Meowth,1,0052/;0052/0001/;0052/0000/0001/;0052/0001/0001/,Normal;Alola;Shiny;Alola Shiny
+0053,Persian,1,0053/;0053/0001/;0053/0000/0001/;0053/0001/0001/,Normal;Alola;Shiny;Alola Shiny
+0054,Psyduck,1,0054/;0054/0001/;0054/0000/0001/;0054/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0055,Golduck,1,0055/;0055/0001/;0055/0000/0001/,Normal;Altcolor;Shiny
+0056,Mankey,1,0056/;0056/0001/;0056/0000/0001/,Normal;Altcolor;Shiny
+0057,Primeape,1,0057/;0057/0001/;0057/0000/0001/,Normal;Altcolor;Shiny
+0058,Growlithe,1,0058/;0058/0001/;0058/0002/;0058/0000/0001/;0058/0001/0001/,Normal;Hisui;Altcolor;Shiny;Hisui Shiny
+0059,Arcanine,1,0059/;0059/0001/;0059/0002/;0059/0000/0001/;0059/0001/0001/,Normal;Hisui;Altcolor;Shiny;Hisui Shiny
+0060,Poliwag,1,0060/;0060/0000/0001/,Normal;Shiny
+0061,Poliwhirl,1,0061/;0061/0000/0001/,Normal;Shiny
+0062,Poliwrath,1,0062/;0062/0000/0001/,Normal;Shiny
+0063,Abra,1,0063/;0063/0000/0001/,Normal;Shiny
+0064,Kadabra,1,0064/;0064/0000/0001/,Normal;Shiny
+0065,Alakazam,1,0065/;0065/0001/;0065/0002/;0065/0000/0001/;0065/0001/0001/;0065/0002/0001/,Normal;Mega;Cutscene;Shiny;Mega Shiny;Cutscene Shiny
+0066,Machop,1,0066/;0066/0001/;0066/0000/0001/;0066/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0067,Machoke,1,0067/;0067/0001/;0067/0000/0001/,Normal;Altcolor;Shiny
+0068,Machamp,1,0068/;0068/0000/0001/,Normal;Shiny
+0069,Bellsprout,1,0069/;0069/0001/;0069/0000/0001/,Normal;Altcolor;Shiny
+0070,Weepinbell,1,0070/;0070/0001/;0070/0000/0001/,Normal;Altcolor;Shiny
+0071,Victreebel,1,0071/;0071/0002/;0071/0000/0001/;0071/0002/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0072,Tentacool,1,0072/;0072/0001/;0072/0000/0001/,Normal;Altcolor;Shiny
+0073,Tentacruel,1,0073/;0073/0001/;0073/0000/0001/,Normal;Altcolor;Shiny
+0074,Geodude,1,0074/;0074/0001/;0074/0002/;0074/0000/0001/;0074/0001/0001/,Normal;Alola;Altcolor;Shiny;Alola Shiny
+0075,Graveler,1,0075/;0075/0001/;0075/0002/;0075/0000/0001/;0075/0001/0001/;0075/0002/0001/,Normal;Alola;Altcolor;Shiny;Alola Shiny;Altcolor Shiny
+0076,Golem,1,0076/;0076/0001/;0076/0002/;0076/0003/;0076/0004/;0076/0000/0001/;0076/0001/0001/;0076/0003/0001/;0076/0004/0001/,Normal;Alola;Altcolor;Cutscene;Cutscene Altcolor;Shiny;Alola Shiny;Cutscene Shiny;Cutscene Altcolor Shiny
+0077,Ponyta,1,0077/;0077/0001/;0077/0002/;0077/0003/;0077/0000/0001/;0077/0001/0001/;0077/0002/0001/,Normal;Galar;Galar Alternate;Altcolor;Shiny;Galar Shiny;Galar Alternate Shiny
+0078,Rapidash,1,0078/;0078/0001/;0078/0000/0001/;0078/0001/0001/,Normal;Galar;Shiny;Galar Shiny
+0079,Slowpoke,1,0079/;0079/0001/;0079/0002/;0079/0000/0001/;0079/0001/0001/,Normal;Galar;Altcolor;Shiny;Galar Shiny
+0080,Slowbro,1,0080/;0080/0001/;0080/0003/;0080/0004/;0080/0000/0001/;0080/0001/0001/,Normal;Galar;Alternate;Mega Altcolor;Shiny;Galar Shiny
+0081,Magnemite,1,0081/;0081/0001/;0081/0000/0001/;0081/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0082,Magneton,1,0082/;0082/0001/;0082/0000/0001/,Normal;Altcolor;Shiny
+0083,Farfetch,1,0083/;0083/0001/;0083/0002/;0083/0000/0001/;0083/0001/0001/,Normal;Galar;Altcolor;Shiny;Galar Shiny
+0084,Doduo,1,0084/;0084/0001/;0084/0000/0001/;0084/0000/0000/0002/;0084/0000/0001/0002/;0084/0001/0000/0002/,Normal;Alternate;Shiny;Female;Shiny Female;Alternate Female
+0085,Dodrio,1,0085/;0085/0001/;0085/0000/0001/;0085/0000/0000/0002/;0085/0000/0001/0002/;0085/0001/0000/0002/,Normal;Altcolor;Shiny;Female;Shiny Female;Altcolor Female
+0086,Seel,1,0086/;0086/0000/0001/,Normal;Shiny
+0087,Dewgong,1,0087/;0087/0000/0001/,Normal;Shiny
+0088,Grimer,1,0088/;0088/0001/;0088/0003/;0088/0000/0001/;0088/0001/0001/;0088/0003/0001/,Normal;Alola;Cutscene;Shiny;Alola Shiny;Cutscene Shiny
+0089,Muk,1,0089/;0089/0001/;0089/0003/;0089/0000/0001/;0089/0001/0001/;0089/0002/0001/;0089/0003/0001/,Normal;Alola;Cutscene;Shiny;Alola Shiny;Altcolor Shiny;Cutscene Shiny
+0090,Shellder,1,0090/;0090/0001/;0090/0000/0001/;0090/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0091,Cloyster,1,0091/;0091/0001/;0091/0000/0001/;0091/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0092,Gastly,1,0092/;0092/0000/0001/,Normal;Shiny
+0093,Haunter,1,0093/;0093/0001/;0093/0000/0001/;0093/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0094,Gengar,1,0094/;0094/0001/;0094/0003/;0094/0000/0001/;0094/0001/0001/;0094/0003/0001/,Normal;Mega;Cutscene;Shiny;Mega Shiny;Cutscene Shiny
+0095,Onix,1,0095/;0095/0001/;0095/0000/0001/,Normal;Altcolor;Shiny
+0096,Drowzee,1,0096/;0096/0001/;0096/0002/;0096/0003/;0096/0000/0001/;0096/0001/0001/;0096/0003/0001/,Normal;Cutscene;Altcolor;Cutscene Altcolor;Shiny;Cutscene Shiny;Cutscene Altcolor Shiny
+0097,Hypno,1,0097/;0097/0000/0001/,Normal;Shiny
+0098,Krabby,1,0098/;0098/0001/;0098/0000/0001/;0098/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0099,Kingler,1,0099/;0099/0002/;0099/0000/0001/,Normal;Altcolor;Shiny
+0100,Voltorb,1,0100/;0100/0001/;0100/0000/0001/;0100/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0101,Electrode,1,0101/;0101/0001/;0101/0000/0001/;0101/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0102,Exeggcute,1,0102/;0102/0000/0001/,Normal;Shiny
+0103,Exeggutor,1,0103/;0103/0001/;0103/0002/;0103/0000/0001/;0103/0001/0001/,Normal;Alola;Altcolor;Shiny;Alola Shiny
+0104,Cubone,1,0104/;0104/0001/;0104/0000/0001/;0104/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0105,Marowak,1,0105/;0105/0001/;0105/0002/;0105/0000/0001/;0105/0001/0001/,Normal;Alola;Altcolor;Shiny;Alola Shiny
+0106,Hitmonlee,1,0106/;0106/0001/;0106/0000/0001/;0106/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0107,Hitmonchan,1,0107/;0107/0000/0001/,Normal;Shiny
+0108,Lickitung,1,0108/;0108/0001/;0108/0000/0001/,Normal;Altcolor;Shiny
+0109,Koffing,1,0109/;0109/0001/;0109/0000/0001/;0109/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0110,Weezing,1,0110/;0110/0001/;0110/0002/;0110/0000/0001/;0110/0001/0001/,Normal;Galar;Altcolor;Shiny;Galar Shiny
+0111,Rhyhorn,1,0111/;0111/0000/0001/;0111/0000/0000/0002/,Normal;Shiny;Female
+0112,Rhydon,1,0112/;0112/0001/;0112/0000/0001/;0112/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0113,Chansey,1,0113/;0113/0000/0001/,Normal;Shiny
+0114,Tangela,1,0114/;0114/0001/;0114/0000/0001/,Normal;Altcolor;Shiny
+0115,Kangaskhan,1,0115/;0115/0001/;0115/0004/;0115/0000/0001/;0115/0001/0001/,Normal;Mega;Altcolor;Shiny;Mega Shiny
+0116,Horsea,1,0116/;0116/0001/;0116/0000/0001/,Normal;Altcolor;Shiny
+0117,Seadra,1,0117/;0117/0000/0001/,Normal;Shiny
+0118,Goldeen,1,0118/;0118/0001/;0118/0000/0001/,Normal;Altcolor;Shiny
+0119,Seaking,1,0119/;0119/0001/;0119/0000/0001/,Normal;Altcolor;Shiny
+0120,Staryu,1,0120/;0120/0000/0001/,Normal;Shiny
+0121,Starmie,1,0121/;0121/0000/0001/,Normal;Shiny
+0122,Mr. Mime,1,0122/;0122/0001/;0122/0002/;0122/0000/0001/;0122/0001/0001/,Normal;Galar;Altcolor;Shiny;Galar Shiny
+0123,Scyther,1,0123/;0123/0001/;0123/0000/0001/,Normal;Altcolor;Shiny
+0124,Jynx,1,0124/;0124/0001/;0124/0000/0001/,Normal;Alternate;Shiny
+0125,Electabuzz,1,0125/;0125/0000/0001/,Normal;Shiny
+0126,Magmar,1,0126/;0126/0000/0001/,Normal;Shiny
+0127,Pinsir,1,0127/;0127/0002/;0127/0000/0001/,Normal;Altcolor;Shiny
+0128,Tauros,1,0128/;0128/0001/;0128/0002/;0128/0003/;0128/0004/;0128/0000/0001/;0128/0001/0001/;0128/0002/0001/;0128/0003/0001/,Normal;Paldea;Paldea Blaze;Paldea Aqua;Altcolor;Shiny;Paldea Shiny;Paldea Blaze Shiny;Paldea Aqua Shiny
+0129,Magikarp,1,0129/;0129/0000/0001/;0129/0000/0000/0002/;0129/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0130,Gyarados,1,0130/;0130/0002/;0130/0004/;0130/0000/0001/;0130/0004/0001/;0130/0000/0000/0002/;0130/0000/0001/0002/;0130/0002/0000/0002/,Normal;Altcolor;Cutscene;Shiny;Cutscene Shiny;Female;Shiny Female;Altcolor Female
+0131,Lapras,1,0131/;0131/0002/;0131/0000/0001/,Normal;Alternate;Shiny
+0132,Ditto,1,0132/;0132/0001/;0132/0000/0001/;0132/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0133,Eevee,1,0133/;0133/0002/;0133/0000/0001/;0133/0000/0001/0002/;0133/0000/0000/0002/;0133/0002/0000/0002/,Normal;Altcolor;Shiny;Shiny Female;Female;Altcolor Female
+0134,Vaporeon,1,0134/;0134/0001/;0134/0000/0001/;0134/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0135,Jolteon,1,0135/;0135/0000/0001/,Normal;Shiny
+0136,Flareon,1,0136/;0136/0001/;0136/0000/0001/,Normal;Altcolor;Shiny
+0137,Porygon,1,0137/;0137/0001/;0137/0000/0001/,Normal;Altcolor;Shiny
+0138,Omanyte,1,0138/;0138/0000/0001/,Normal;Shiny
+0139,Omastar,1,0139/;0139/0000/0001/,Normal;Shiny
+0140,Kabuto,1,0140/;0140/0000/0001/,Normal;Shiny
+0141,Kabutops,1,0141/;0141/0001/;0141/0000/0001/,Normal;Altcolor;Shiny
+0142,Aerodactyl,1,0142/;0142/0001/;0142/0002/;0142/0000/0001/;0142/0001/0001/,Normal;Mega;Altcolor;Shiny;Mega Shiny
+0143,Snorlax,1,0143/;0143/0002/;0143/0000/0001/,Normal;Altcolor;Shiny
+0144,Articuno,1,0144/;0144/0001/;0144/0002/;0144/0003/;0144/0000/0001/;0144/0001/0001/;0144/0002/0001/,Normal;Galar;Cutscene;Altcolor;Shiny;Galar Shiny;Cutscene Shiny
+0145,Zapdos,1,0145/;0145/0001/;0145/0002/;0145/0003/;0145/0000/0001/;0145/0001/0001/;0145/0002/0001/,Normal;Galar;Cutscene;Altcolor;Shiny;Galar Shiny;Cutscene Shiny
+0146,Moltres,1,0146/;0146/0001/;0146/0002/;0146/0003/;0146/0000/0001/;0146/0001/0001/;0146/0002/0001/,Normal;Galar;Cutscene;Alternate;Shiny;Galar Shiny;Cutscene Shiny
+0147,Dratini,1,0147/;0147/0001/;0147/0000/0001/,Normal;Altcolor;Shiny
+0148,Dragonair,1,0148/;0148/0001/;0148/0000/0001/,Normal;Altcolor;Shiny
+0149,Dragonite,1,0149/;0149/0002/;0149/0000/0001/,Normal;Altcolor;Shiny
+0150,Mewtwo,1,0150/;0150/0002/;0150/0003/;0150/0000/0001/;0150/0002/0001/,Normal;Mega Y;Shadow;Shiny;Mega Y Shiny
+0151,Mew,1,0151/;0151/0001/;0151/0000/0001/,Normal;Alternate;Shiny
+0152,Chikorita,2,0152/;0152/0000/0001/,Normal;Shiny
+0153,Bayleef,2,0153/;0153/0001/;0153/0000/0001/;0153/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0154,Meganium,2,0154/;0154/0003/;0154/0000/0001/;0154/0000/0000/0002/;0154/0000/0001/0002/;0154/0003/0000/0002/,Normal;Alternate2;Shiny;Female;Shiny Female;Alternate2 Female
+0155,Cyndaquil,2,0155/;0155/0001/;0155/0000/0001/,Normal;Altcolor;Shiny
+0156,Quilava,2,0156/;0156/0001/;0156/0000/0001/,Normal;Altcolor;Shiny
+0157,Typhlosion,2,0157/;0157/0001/;0157/0002/;0157/0000/0001/;0157/0001/0001/;0157/0002/0001/,Normal;Hisui;Altcolor;Shiny;Hisui Shiny;Altcolor Shiny
+0158,Totodile,2,0158/;0158/0000/0001/,Normal;Shiny
+0159,Croconaw,2,0159/;0159/0000/0001/,Normal;Shiny
+0160,Feraligatr,2,0160/;0160/0000/0001/,Normal;Shiny
+0161,Sentret,2,0161/;0161/0001/;0161/0000/0001/,Normal;Altcolor;Shiny
+0162,Furret,2,0162/;0162/0001/;0162/0000/0001/,Normal;Alternate;Shiny
+0163,Hoothoot,2,0163/;0163/0000/0001/,Normal;Shiny
+0164,Noctowl,2,0164/;0164/0000/0001/,Normal;Shiny
+0165,Ledyba,2,0165/;0165/0001/;0165/0000/0001/;0165/0000/0000/0002/;0165/0000/0001/0002/;0165/0001/0000/0002/,Normal;Altcolor;Shiny;Female;Shiny Female;Altcolor Female
+0166,Ledian,2,0166/;0166/0001/;0166/0000/0001/;0166/0000/0000/0002/;0166/0000/0001/0002/;0166/0001/0000/0002/,Normal;Altcolor;Shiny;Female;Shiny Female;Altcolor Female
+0167,Spinarak,2,0167/;0167/0000/0001/;0167/0001/0001/,Normal;Shiny;Altcolor Shiny
+0168,Ariados,2,0168/;0168/0001/;0168/0000/0001/,Normal;Altcolor;Shiny
+0169,Crobat,2,0169/;0169/0001/;0169/0000/0001/;0169/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0170,Chinchou,2,0170/;0170/0001/;0170/0000/0001/;0170/0001/0001/,Normal;Alternate;Shiny;Alternate Shiny
+0171,Lanturn,2,0171/;0171/0001/;0171/0000/0001/,Normal;Altcolor;Shiny
+0172,Pichu,2,0172/;0172/0001/;0172/0000/0001/;0172/0001/0001/,Normal;Spiky;Shiny;Spiky Shiny
+0173,Cleffa,2,0173/;0173/0000/0001/,Normal;Shiny
+0174,Igglybuff,2,0174/;0174/0001/;0174/0003/;0174/0000/0001/;0174/0001/0001/;0174/0003/0001/,Normal;Cutscene;Cutscene Altcolor;Shiny;Cutscene Shiny;Cutscene Altcolor Shiny
+0175,Togepi,2,0175/;0175/0001/;0175/0000/0001/,Normal;Altcolor;Shiny
+0176,Togetic,2,0176/;0176/0000/0001/,Normal;Shiny
+0177,Natu,2,0177/;0177/0000/0001/,Normal;Shiny
+0178,Xatu,2,0178/;0178/0001/;0178/0000/0001/;0178/0001/0001/;0178/0000/0001/0001/;0178/0000/0000/0001/,Normal;Cutscene;Shiny;Cutscene Shiny;Shiny Male;Male
+0179,Mareep,2,0179/;0179/0001/;0179/0000/0001/;0179/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0180,Flaaffy,2,0180/;0180/0000/0001/,Normal;Shiny
+0181,Ampharos,2,0181/;0181/0000/0001/,Normal;Shiny
+0182,Bellossom,2,0182/;0182/0001/;0182/0000/0001/;0182/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0183,Marill,2,0183/;0183/0000/0001/,Normal;Shiny
+0184,Azumarill,2,0184/;0184/0000/0001/,Normal;Shiny
+0185,Sudowoodo,2,0185/;0185/0001/;0185/0000/0001/,Normal;Alternate;Shiny
+0186,Politoed,2,0186/;0186/0000/0001/,Normal;Shiny
+0187,Hoppip,2,0187/;0187/0001/;0187/0002/;0187/0000/0001/,Normal;Altcolor;Beta;Shiny
+0188,Skiploom,2,0188/;0188/0001/;0188/0000/0001/,Normal;Altcolor;Shiny
+0189,Jumpluff,2,0189/;0189/0002/;0189/0000/0001/,Normal;Altcolor;Shiny
+0190,Aipom,2,0190/;0190/0000/0001/,Normal;Shiny
+0191,Sunkern,2,0191/;0191/0001/;0191/0000/0001/,Normal;Beta;Shiny
+0192,Sunflora,2,0192/;0192/0001/;0192/0002/;0192/0000/0001/;0192/0001/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny
+0193,Yanma,2,0193/;0193/0000/0001/,Normal;Shiny
+0194,Wooper,2,0194/;0194/0002/;0194/0003/;0194/0000/0001/;0194/0002/0001/;0194/0000/0000/0002/;0194/0000/0001/0002/;0194/0003/0000/0002/,Normal;Paldea;Altcolor;Shiny;Paldea Shiny;Female;Shiny Female;Altcolor Female
+0195,Quagsire,2,0195/;0195/0001/;0195/0000/0001/,Normal;Altcolor;Shiny
+0196,Espeon,2,0196/;0196/0001/;0196/0000/0001/;0196/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0197,Umbreon,2,0197/;0197/0001/;0197/0000/0001/;0197/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0198,Murkrow,2,0198/;0198/0001/;0198/0000/0001/;0198/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0199,Slowking,2,0199/;0199/0001/;0199/0002/;0199/0000/0001/;0199/0001/0001/,Normal;Galar;Altcolor;Shiny;Galar Shiny
+0200,Misdreavus,2,0200/;0200/0001/;0200/0000/0001/;0200/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0201,Unown,2,0201/;0201/0001/;0201/0002/;0201/0003/;0201/0004/;0201/0005/;0201/0006/;0201/0007/;0201/0008/;0201/0009/;0201/0010/;0201/0011/;0201/0012/;0201/0013/;0201/0014/;0201/0015/;0201/0016/;0201/0017/;0201/0018/;0201/0019/;0201/0020/;0201/0021/;0201/0022/;0201/0023/;0201/0024/;0201/0025/;0201/0026/;0201/0027/;0201/0000/0001/;0201/0001/0001/;0201/0002/0001/;0201/0003/0001/;0201/0004/0001/;0201/0005/0001/;0201/0006/0001/;0201/0007/0001/;0201/0008/0001/;0201/0009/0001/;0201/0010/0001/;0201/0011/0001/;0201/0012/0001/;0201/0013/0001/;0201/0014/0001/;0201/0015/0001/;0201/0016/0001/;0201/0017/0001/;0201/0018/0001/;0201/0019/0001/;0201/0020/0001/;0201/0021/0001/;0201/0022/0001/;0201/0023/0001/;0201/0024/0001/;0201/0025/0001/;0201/0026/0001/;0201/0027/0001/,Normal;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;R;S;T;U;V;W;X;Y;Z;Exclamation;Question;Shiny;B Shiny;C Shiny;D Shiny;E Shiny;F Shiny;G Shiny;H Shiny;I Shiny;J Shiny;K Shiny;L Shiny;M Shiny;N Shiny;O Shiny;P Shiny;Q Shiny;R Shiny;S Shiny;T Shiny;U Shiny;V Shiny;W Shiny;X Shiny;Y Shiny;Z Shiny;Exclamation Shiny;Question Shiny
+0202,Wobbuffet,2,0202/;0202/0000/0001/;0202/0000/0000/0002/;0202/0000/0001/0002/;0202/0001/0001/0002/;0202/0001/0000/0002/,Normal;Shiny;Female;Shiny Female;Cutscene Shiny Female;Cutscene Female
+0203,Girafarig,2,0203/;0203/0001/;0203/0000/0001/;0203/0001/0001/;0203/0000/0001/0002/;0203/0000/0000/0002/;0203/0001/0001/0002/;0203/0001/0000/0002/,Normal;Alternate;Shiny;Alternate Shiny;Shiny Female;Female;Alternate Shiny Female;Alternate Female
+0204,Pineco,2,0204/;0204/0000/0001/,Normal;Shiny
+0205,Forretress,2,0205/;0205/0001/;0205/0000/0001/,Normal;Altcolor;Shiny
+0206,Dunsparce,2,0206/;0206/0002/;0206/0000/0001/;0206/0002/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0207,Gligar,2,0207/;0207/0001/;0207/0002/;0207/0003/;0207/0000/0001/;0207/0002/0001/,Normal;Altcolor;Cutscene;Cutscene Altcolor;Shiny;Cutscene Shiny
+0208,Steelix,2,0208/;0208/0001/;0208/0000/0001/;0208/0001/0001/;0208/0000/0000/0002/;0208/0000/0001/0002/,Normal;Mega;Shiny;Mega Shiny;Female;Shiny Female
+0209,Snubbull,2,0209/;0209/0001/;0209/0000/0001/;0209/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0210,Granbull,2,0210/;0210/0001/;0210/0000/0001/,Normal;Altcolor;Shiny
+0211,Qwilfish,2,0211/;0211/0001/;0211/0002/;0211/0000/0001/;0211/0001/0001/,Normal;Hisui;Altcolor;Shiny;Hisui Shiny
+0212,Scizor,2,0212/;0212/0003/;0212/0005/;0212/0000/0001/;0212/0003/0001/,Normal;Cutscene;Cutscene Altcolor;Shiny;Cutscene Shiny
+0213,Shuckle,2,0213/;0213/0000/0001/,Normal;Shiny
+0214,Heracross,2,0214/;0214/0002/;0214/0000/0001/;0214/0000/0000/0002/;0214/0000/0001/0002/;0214/0002/0000/0002/,Normal;Altcolor;Shiny;Female;Shiny Female;Altcolor Female
+0215,Sneasel,2,0215/;0215/0001/;0215/0002/;0215/0003/;0215/0000/0001/;0215/0001/0001/;0215/0002/0001/,Normal;Hisui;Cutscene;Alternate;Shiny;Hisui Shiny;Cutscene Shiny
+0216,Teddiursa,2,0216/;0216/0001/;0216/0000/0001/;0216/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0217,Ursaring,2,0217/;0217/0001/;0217/0000/0001/,Normal;Altcolor;Shiny
+0218,Slugma,2,0218/;0218/0002/;0218/0000/0001/,Normal;Altcolor;Shiny
+0219,Magcargo,2,0219/;0219/0001/;0219/0000/0001/,Normal;Altcolor;Shiny
+0220,Swinub,2,0220/;0220/0000/0001/,Normal;Shiny
+0221,Piloswine,2,0221/;0221/0000/0001/,Normal;Shiny
+0222,Corsola,2,0222/;0222/0001/;0222/0000/0001/;0222/0001/0001/,Normal;Galar;Shiny;Galar Shiny
+0223,Remoraid,2,0223/;0223/0001/;0223/0000/0001/,Normal;Altcolor;Shiny
+0224,Octillery,2,0224/;0224/0001/;0224/0003/;0224/0000/0001/;0224/0001/0001/,Normal;Cutscene;Cutscene Altcolor;Shiny;Cutscene Shiny
+0225,Delibird,2,0225/;0225/0000/0001/,Normal;Shiny
+0226,Mantine,2,0226/;0226/0001/;0226/0002/;0226/0003/;0226/0000/0001/;0226/0001/0001/;0226/0002/0001/,Normal;Alternate;Altcolor;Alternate Altcolor;Shiny;Alternate Shiny;Altcolor Shiny
+0227,Skarmory,2,0227/;0227/0002/;0227/0000/0001/;0227/0002/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0228,Houndour,2,0228/;0228/0001/;0228/0000/0001/,Normal;Altcolor;Shiny
+0229,Houndoom,2,0229/;0229/0001/;0229/0002/;0229/0000/0001/;0229/0001/0001/,Normal;Mega;Altcolor;Shiny;Mega Shiny
+0230,Kingdra,2,0230/;0230/0000/0001/,Normal;Shiny
+0231,Phanpy,2,0231/;0231/0001/;0231/0000/0001/,Normal;Alternate;Shiny
+0232,Donphan,2,0232/;0232/0000/0001/;0232/0000/0000/0002/;0232/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0233,Porygon2,2,0233/;0233/0000/0001/,Normal;Shiny
+0234,Stantler,2,0234/;0234/0001/;0234/0002/;0234/0000/0001/;0234/0001/0001/;0234/0002/0001/,Normal;Altcolor;Alternate;Shiny;Altcolor Shiny;Alternate Shiny
+0235,Smeargle,2,0235/;0235/0001/;0235/0000/0001/,Normal;Altcolor;Shiny
+0236,Tyrogue,2,0236/;0236/0001/;0236/0000/0001/,Normal;Altcolor;Shiny
+0237,Hitmontop,2,0237/;0237/0000/0001/,Normal;Shiny
+0238,Smoochum,2,0238/;0238/0000/0001/,Normal;Shiny
+0239,Elekid,2,0239/;0239/0000/0001/,Normal;Shiny
+0240,Magby,2,0240/;0240/0001/;0240/0000/0001/,Normal;Altcolor;Shiny
+0241,Miltank,2,0241/;0241/0000/0001/,Normal;Shiny
+0242,Blissey,2,0242/;0242/0000/0001/,Normal;Shiny
+0243,Raikou,2,0243/;0243/0001/;0243/0000/0001/;0243/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0244,Entei,2,0244/;0244/0001/;0244/0002/;0244/0000/0001/;0244/0001/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny
+0245,Suicune,2,0245/;0245/0001/;0245/0002/;0245/0000/0001/;0245/0001/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny
+0246,Larvitar,2,0246/;0246/0001/;0246/0000/0001/,Normal;Altcolor;Shiny
+0247,Pupitar,2,0247/;0247/0000/0001/,Normal;Shiny
+0248,Tyranitar,2,0248/;0248/0002/;0248/0000/0001/;0248/0002/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0249,Lugia,2,0249/;0249/0001/;0249/0002/;0249/0000/0001/;0249/0002/0001/,Normal;Shadow;Cutscene;Shiny;Cutscene Shiny
+0250,Ho-oh,2,0250/;0250/0001/;0250/0000/0001/,Normal;Alternate;Shiny
+0251,Celebi,2,0251/;0251/0001/;0251/0000/0001/;0251/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0252,Treecko,3,0252/;0252/0001/;0252/0000/0001/;0252/0001/0001/,Normal;Alternate;Shiny;Alternate Shiny
+0253,Grovyle,3,0253/;0253/0001/;0253/0002/;0253/0000/0001/;0253/0001/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny
+0254,Sceptile,3,0254/;0254/0001/;0254/0000/0001/;0254/0001/0001/,Normal;Mega;Shiny;Mega Shiny
+0255,Torchic,3,0255/;0255/0000/0001/,Normal;Shiny
+0256,Combusken,3,0256/;0256/0000/0001/;0256/0000/0000/0002/;0256/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0257,Blaziken,3,0257/;0257/0000/0001/;0257/0000/0000/0002/;0257/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0258,Mudkip,3,0258/;0258/0001/;0258/0000/0001/,Normal;Alternate;Shiny
+0259,Marshtomp,3,0259/;0259/0001/;0259/0000/0001/,Normal;Altcolor;Shiny
+0260,Swampert,3,0260/;0260/0002/;0260/0000/0001/,Normal;Altcolor;Shiny
+0261,Poochyena,3,0261/;0261/0000/0001/,Normal;Shiny
+0262,Mightyena,3,0262/;0262/0000/0001/,Normal;Shiny
+0263,Zigzagoon,3,0263/;0263/0001/;0263/0002/;0263/0000/0001/;0263/0001/0001/,Normal;Galar;Alternate;Shiny;Galar Shiny
+0264,Linoone,3,0264/;0264/0001/;0264/0000/0001/;0264/0001/0001/,Normal;Galar;Shiny;Galar Shiny
+0265,Wurmple,3,0265/;0265/0000/0001/,Normal;Shiny
+0266,Silcoon,3,0266/;0266/0000/0001/,Normal;Shiny
+0267,Beautifly,3,0267/;0267/0000/0001/;0267/0000/0000/0002/;0267/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0268,Cascoon,3,0268/;0268/0000/0001/,Normal;Shiny
+0269,Dustox,3,0269/;0269/0001/;0269/0000/0001/;0269/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0270,Lotad,3,0270/;0270/0000/0001/,Normal;Shiny
+0271,Lombre,3,0271/;0271/0001/;0271/0002/;0271/0003/;0271/0000/0001/;0271/0001/0001/,Normal;Cutscene;Altcolor;Cutscene Altcolor;Shiny;Cutscene Shiny
+0272,Ludicolo,3,0272/;0272/0001/;0272/0002/;0272/0003/;0272/0000/0001/;0272/0001/0001/;0272/0003/0001/,Normal;Cutscene;Altcolor;Cutscene Altcolor;Shiny;Cutscene Shiny;Cutscene Altcolor Shiny
+0273,Seedot,3,0273/;0273/0000/0001/,Normal;Shiny
+0274,Nuzleaf,3,0274/;0274/0001/;0274/0000/0001/;0274/0000/0001/0002/;0274/0000/0000/0002/;0274/0001/0000/0002/,Normal;Altcolor;Shiny;Shiny Female;Female;Altcolor Female
+0275,Shiftry,3,0275/;0275/0001/;0275/0000/0001/;0275/0001/0001/;0275/0000/0000/0002/;0275/0000/0001/0002/;0275/0001/0001/0002/;0275/0001/0000/0002/,Normal;Cutscene;Shiny;Cutscene Shiny;Female;Shiny Female;Cutscene Shiny Female;Cutscene Female
+0276,Taillow,3,0276/;0276/0000/0001/,Normal;Shiny
+0277,Swellow,3,0277/;0277/0000/0001/,Normal;Shiny
+0278,Wingull,3,0278/;0278/0000/0001/,Normal;Shiny
+0279,Pelipper,3,0279/;0279/0001/;0279/0000/0001/;0279/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0280,Ralts,3,0280/;0280/0000/0001/,Normal;Shiny
+0281,Kirlia,3,0281/;0281/0000/0001/,Normal;Shiny
+0282,Gardevoir,3,0282/;0282/0001/;0282/0002/;0282/0000/0001/;0282/0001/0001/;0282/0002/0001/,Normal;Mega;Cutscene;Shiny;Mega Shiny;Cutscene Shiny
+0283,Surskit,3,0283/;0283/0000/0001/,Normal;Shiny
+0284,Masquerain,3,0284/;0284/0000/0001/,Normal;Shiny
+0285,Shroomish,3,0285/;0285/0001/;0285/0000/0001/,Normal;Altcolor;Shiny
+0286,Breloom,3,0286/;0286/0000/0001/,Normal;Shiny
+0287,Slakoth,3,0287/;0287/0000/0001/,Normal;Shiny
+0288,Vigoroth,3,0288/;0288/0000/0001/,Normal;Shiny
+0289,Slaking,3,0289/;0289/0000/0001/,Normal;Shiny
+0290,Nincada,3,0290/;0290/0001/;0290/0000/0001/;0290/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0291,Ninjask,3,0291/;0291/0000/0001/,Normal;Shiny
+0292,Shedinja,3,0292/;0292/0000/0001/,Normal;Shiny
+0293,Whismur,3,0293/;0293/0001/;0293/0000/0001/,Normal;Altcolor;Shiny
+0294,Loudred,3,0294/;0294/0001/;0294/0000/0001/;0294/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0295,Exploud,3,0295/;0295/0001/;0295/0000/0001/,Normal;Alternate;Shiny
+0296,Makuhita,3,0296/;0296/0001/;0296/0000/0001/,Normal;Altcolor;Shiny
+0297,Hariyama,3,0297/;0297/0000/0001/,Normal;Shiny
+0298,Azurill,3,0298/;0298/0001/;0298/0000/0001/;0298/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0299,Nosepass,3,0299/;0299/0001/;0299/0000/0001/,Normal;Altcolor;Shiny
+0300,Skitty,3,0300/;0300/0001/;0300/0000/0001/,Normal;Alternate;Shiny
+0301,Delcatty,3,0301/;0301/0000/0001/,Normal;Shiny
+0302,Sableye,3,0302/;0302/0001/;0302/0002/;0302/0000/0001/;0302/0001/0001/;0302/0002/0001/,Normal;Mega;Cutscene;Shiny;Mega Shiny;Cutscene Shiny
+0303,Mawile,3,0303/;0303/0001/;0303/0003/;0303/0000/0001/;0303/0001/0001/;0303/0003/0001/,Normal;Mega;Altcolor;Shiny;Mega Shiny;Altcolor Shiny
+0304,Aron,3,0304/;0304/0000/0001/,Normal;Shiny
+0305,Lairon,3,0305/;0305/0001/;0305/0000/0001/;0305/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0306,Aggron,3,0306/;0306/0002/;0306/0004/;0306/0000/0001/;0306/0002/0001/;0306/0004/0001/,Normal;Cutscene;Cutscene Altcolor;Shiny;Cutscene Shiny;Cutscene Altcolor Shiny
+0307,Meditite,3,0307/;0307/0000/0001/,Normal;Shiny
+0308,Medicham,3,0308/;0308/0001/;0308/0002/;0308/0000/0001/;0308/0002/0001/;0308/0000/0000/0002/;0308/0000/0001/0002/;0308/0002/0001/0002/;0308/0002/0000/0002/,Normal;Mega;Cutscene;Shiny;Cutscene Shiny;Female;Shiny Female;Cutscene Shiny Female;Cutscene Female
+0309,Electrike,3,0309/;0309/0000/0001/,Normal;Shiny
+0310,Manectric,3,0310/;0310/0001/;0310/0000/0001/;0310/0001/0001/,Normal;Mega;Shiny;Mega Shiny
+0311,Plusle,3,0311/;0311/0000/0001/,Normal;Shiny
+0312,Minun,3,0312/;0312/0000/0001/,Normal;Shiny
+0313,Volbeat,3,0313/;0313/0001/;0313/0002/;0313/0000/0001/;0313/0001/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny
+0314,Illumise,3,0314/;0314/0001/;0314/0002/;0314/0000/0001/;0314/0001/0001/;0314/0002/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny;Altcolor Shiny
+0315,Roselia,3,0315/;0315/0001/;0315/0000/0001/;0315/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0316,Gulpin,3,0316/;0316/0000/0001/;0316/0000/0001/0002/;0316/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0317,Swalot,3,0317/;0317/0001/;0317/0000/0001/;0317/0001/0001/;0317/0000/0001/0002/;0317/0000/0000/0002/;0317/0001/0000/0002/,Normal;Altcolor;Shiny;Altcolor Shiny;Shiny Female;Female;Altcolor Female
+0318,Carvanha,3,0318/;0318/0000/0001/,Normal;Shiny
+0319,Sharpedo,3,0319/;0319/0002/;0319/0000/0001/,Normal;Altcolor;Shiny
+0320,Wailmer,3,0320/;0320/0001/;0320/0000/0001/,Normal;Altcolor;Shiny
+0321,Wailord,3,0321/;0321/0000/0001/,Normal;Shiny
+0322,Numel,3,0322/;0322/0001/;0322/0000/0001/;0322/0001/0001/;0322/0000/0001/0002/;0322/0000/0000/0002/;0322/0001/0000/0002/,Normal;Alternate;Shiny;Alternate Shiny;Shiny Female;Female;Alternate Female
+0323,Camerupt,3,0323/;0323/0001/;0323/0002/;0323/0000/0001/;0323/0001/0001/;0323/0002/0001/;0323/0000/0001/0001/;0323/0000/0000/0001/;0323/0002/0001/0001/;0323/0002/0000/0001/,Normal;Mega;Altcolor;Shiny;Mega Shiny;Altcolor Shiny;Shiny Male;Male;Altcolor Shiny Male;Altcolor Male
+0324,Torkoal,3,0324/;0324/0002/;0324/0000/0001/,Normal;Altcolor;Shiny
+0325,Spoink,3,0325/;0325/0000/0001/,Normal;Shiny
+0326,Grumpig,3,0326/;0326/0001/;0326/0000/0001/,Normal;Altcolor;Shiny
+0327,Spinda,3,0327/;0327/0001/;0327/0003/;0327/0000/0001/;0327/0001/0001/;0327/0003/0001/,Normal;Cutscene;Cutscene Altcolor;Shiny;Cutscene Shiny;Cutscene Altcolor Shiny
+0328,Trapinch,3,0328/;0328/0000/0001/,Normal;Shiny
+0329,Vibrava,3,0329/;0329/0000/0001/,Normal;Shiny
+0330,Flygon,3,0330/;0330/0000/0001/,Normal;Shiny
+0331,Cacnea,3,0331/;0331/0000/0001/;0331/0001/0001/,Normal;Shiny;Altcolor Shiny
+0332,Cacturne,3,0332/;0332/0000/0001/;0332/0000/0001/0002/;0332/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0333,Swablu,3,0333/;0333/0000/0001/;0333/0001/0001/,Normal;Shiny;Altcolor Shiny
+0334,Altaria,3,0334/;0334/0001/;0334/0000/0001/;0334/0001/0001/;0334/0002/0001/,Normal;Mega;Shiny;Mega Shiny;Altcolor Shiny
+0335,Zangoose,3,0335/;0335/0000/0001/,Normal;Shiny
+0336,Seviper,3,0336/;0336/0001/;0336/0000/0001/;0336/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0337,Lunatone,3,0337/;0337/0000/0001/,Normal;Shiny
+0338,Solrock,3,0338/;0338/0000/0001/,Normal;Shiny
+0339,Barboach,3,0339/;0339/0000/0001/,Normal;Shiny
+0340,Whiscash,3,0340/;0340/0001/;0340/0000/0001/;0340/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0341,Corphish,3,0341/;0341/0001/;0341/0003/;0341/0000/0001/;0341/0001/0001/,Normal;Cutscene;Cutscene Altcolor;Shiny;Cutscene Shiny
+0342,Crawdaunt,3,0342/;0342/0000/0001/,Normal;Shiny
+0343,Baltoy,3,0343/;0343/0000/0001/,Normal;Shiny
+0344,Claydol,3,0344/;0344/0001/;0344/0000/0001/;0344/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0345,Lileep,3,0345/;0345/0000/0001/,Normal;Shiny
+0346,Cradily,3,0346/;0346/0001/;0346/0000/0001/,Normal;Altcolor;Shiny
+0347,Anorith,3,0347/;0347/0000/0001/,Normal;Shiny
+0348,Armaldo,3,0348/;0348/0001/;0348/0002/;0348/0000/0001/;0348/0001/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny
+0349,Feebas,3,0349/;0349/0000/0001/,Normal;Shiny
+0350,Milotic,3,0350/;0350/0001/;0350/0000/0001/;0350/0001/0001/;0350/0000/0000/0002/;0350/0000/0001/0002/;0350/0001/0001/0002/;0350/0001/0000/0002/,Normal;Alternate;Shiny;Alternate Shiny;Female;Shiny Female;Alternate Shiny Female;Alternate Female
+0351,Castform,3,0351/;0351/0001/;0351/0002/;0351/0003/;0351/0000/0001/;0351/0001/0001/;0351/0002/0001/;0351/0003/0001/,Normal;Sunny;Rainy;Snowy;Shiny;Sunny Shiny;Rainy Shiny;Snowy Shiny
+0352,Kecleon,3,0352/;0352/0001/;0352/0002/;0352/0003/;0352/0004/;0352/0000/0001/;0352/0002/0001/;0352/0004/0001/,Normal;Purple;Cutscene;Purple Cutscene;Altcolor;Shiny;Cutscene Shiny;Altcolor Shiny
+0353,Shuppet,3,0353/;0353/0001/;0353/0000/0001/,Normal;Altcolor;Shiny
+0354,Banette,3,0354/;0354/0001/;0354/0002/;0354/0003/;0354/0000/0001/;0354/0001/0001/;0354/0002/0001/,Normal;Mega;Cutscene;Altcolor;Shiny;Mega Shiny;Cutscene Shiny
+0355,Duskull,3,0355/;0355/0001/;0355/0000/0001/;0355/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0356,Dusclops,3,0356/;0356/0000/0001/,Normal;Shiny
+0357,Tropius,3,0357/;0357/0001/;0357/0000/0001/,Normal;Altcolor;Shiny
+0358,Chimecho,3,0358/;0358/0001/;0358/0000/0001/;0358/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0359,Absol,3,0359/;0359/0001/;0359/0002/;0359/0003/;0359/0000/0001/;0359/0001/0001/;0359/0002/0001/,Normal;Mega;Cutscene;Alternate;Shiny;Mega Shiny;Cutscene Shiny
+0360,Wynaut,3,0360/;0360/0001/;0360/0000/0001/;0360/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0361,Snorunt,3,0361/;0361/0001/;0361/0000/0001/;0361/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0362,Glalie,3,0362/;0362/0001/;0362/0000/0001/;0362/0001/0001/,Normal;Mega;Shiny;Mega Shiny
+0363,Spheal,3,0363/;0363/0001/;0363/0000/0001/,Normal;Altcolor;Shiny
+0364,Sealeo,3,0364/;0364/0001/;0364/0000/0001/;0364/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0365,Walrein,3,0365/;0365/0001/;0365/0002/;0365/0000/0001/;0365/0001/0001/,Normal;Cutscene;Alternate;Shiny;Cutscene Shiny
+0366,Clamperl,3,0366/;0366/0000/0001/,Normal;Shiny
+0367,Huntail,3,0367/;0367/0000/0001/,Normal;Shiny
+0368,Gorebyss,3,0368/;0368/0000/0001/,Normal;Shiny
+0369,Relicanth,3,0369/;0369/0000/0001/;0369/0000/0000/0002/;0369/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0370,Luvdisc,3,0370/;0370/0000/0001/,Normal;Shiny
+0371,Bagon,3,0371/;0371/0001/;0371/0000/0001/,Normal;Altcolor;Shiny
+0372,Shelgon,3,0372/;0372/0000/0001/,Normal;Shiny
+0373,Salamence,3,0373/;0373/0002/;0373/0000/0001/;0373/0002/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0374,Beldum,3,0374/;0374/0001/;0374/0000/0001/,Normal;Altcolor;Shiny
+0375,Metang,3,0375/;0375/0001/;0375/0000/0001/,Normal;Altcolor;Shiny
+0376,Metagross,3,0376/;0376/0002/;0376/0000/0001/,Normal;Altcolor;Shiny
+0377,Regirock,3,0377/;0377/0001/;0377/0000/0001/,Normal;Altcolor;Shiny
+0378,Regice,3,0378/;0378/0001/;0378/0000/0001/,Normal;Altcolor;Shiny
+0379,Registeel,3,0379/;0379/0001/;0379/0000/0001/,Normal;Altcolor;Shiny
+0380,Latias,3,0380/;0380/0001/;0380/0002/;0380/0000/0001/;0380/0001/0001/;0380/0002/0001/,Normal;Mega;Cutscene;Shiny;Mega Shiny;Cutscene Shiny
+0381,Latios,3,0381/;0381/0001/;0381/0002/;0381/0000/0001/;0381/0001/0001/;0381/0002/0001/,Normal;Mega;Cutscene;Shiny;Mega Shiny;Cutscene Shiny
+0382,Kyogre,3,0382/;0382/0001/;0382/0002/;0382/0000/0001/;0382/0001/0001/,Normal;Primal;Altcolor;Shiny;Primal Shiny
+0383,Groudon,3,0383/;0383/0001/;0383/0002/;0383/0000/0001/;0383/0001/0001/;0383/0002/0001/,Normal;Primal;Cutscene;Shiny;Primal Shiny;Cutscene Shiny
+0384,Rayquaza,3,0384/;0384/0001/;0384/0002/;0384/0000/0001/;0384/0001/0001/,Normal;Mega;Altcolor;Shiny;Mega Shiny
+0385,Jirachi,3,0385/;0385/0001/;0385/0002/;0385/0003/;0385/0000/0001/;0385/0002/0001/,Normal;Altcolor;Cutscene;Cutscene Altcolor;Shiny;Cutscene Shiny
+0386,Deoxys,3,0386/;0386/0001/;0386/0002/;0386/0003/;0386/0004/;0386/0005/;0386/0006/;0386/0007/;0386/0000/0001/;0386/0001/0001/;0386/0002/0001/;0386/0003/0001/,Normal;Attack;Defense;Speed;Altcolor;Attack Altcolor;Defense Altcolor;Speed Altcolor;Shiny;Attack Shiny;Defense Shiny;Speed Shiny
+0387,Turtwig,4,0387/;0387/0001/;0387/0000/0001/,Normal;Altcolor;Shiny
+0388,Grotle,4,0388/;0388/0000/0001/,Normal;Shiny
+0389,Torterra,4,0389/;0389/0001/;0389/0000/0001/,Normal;Altcolor;Shiny
+0390,Chimchar,4,0390/;0390/0000/0001/,Normal;Shiny
+0391,Monferno,4,0391/;0391/0000/0001/,Normal;Shiny
+0392,Infernape,4,0392/;0392/0000/0001/,Normal;Shiny
+0393,Piplup,4,0393/;0393/0001/;0393/0000/0001/,Normal;Altcolor;Shiny
+0394,Prinplup,4,0394/;0394/0000/0001/,Normal;Shiny
+0395,Empoleon,4,0395/;0395/0001/;0395/0000/0001/,Normal;Altcolor;Shiny
+0396,Starly,4,0396/;0396/0000/0001/;0396/0000/0001/0002/;0396/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0397,Staravia,4,0397/;0397/0000/0001/;0397/0000/0001/0002/;0397/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0398,Staraptor,4,0398/;0398/0000/0001/;0398/0000/0001/0002/;0398/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0399,Bidoof,4,0399/;0399/0001/;0399/0000/0001/;0399/0001/0001/;0399/0000/0000/0002/;0399/0000/0001/0002/;0399/0001/0001/0002/;0399/0001/0000/0002/,Normal;Cutscene;Shiny;Cutscene Shiny;Female;Shiny Female;Cutscene Shiny Female;Cutscene Female
+0400,Bibarel,4,0400/;0400/0000/0001/;0400/0000/0000/0002/;0400/0000/0001/0002/;0400/0001/0001/0002/;0400/0001/0000/0002/,Normal;Shiny;Female;Shiny Female;Cutscene Shiny Female;Cutscene Female
+0401,Kricketot,4,0401/;0401/0000/0001/,Normal;Shiny
+0402,Kricketune,4,0402/;0402/0000/0001/,Normal;Shiny
+0403,Shinx,4,0403/;0403/0001/;0403/0000/0001/;0403/0001/0001/;0403/0000/0001/0002/;0403/0000/0000/0002/;0403/0001/0001/0002/;0403/0001/0000/0002/,Normal;Altcolor;Shiny;Altcolor Shiny;Shiny Female;Female;Altcolor Shiny Female;Altcolor Female
+0404,Luxio,4,0404/;0404/0001/;0404/0000/0001/;0404/0001/0001/;0404/0000/0001/0002/;0404/0000/0000/0002/;0404/0001/0001/0002/;0404/0001/0000/0002/,Normal;Altcolor;Shiny;Altcolor Shiny;Shiny Female;Female;Altcolor Shiny Female;Altcolor Female
+0405,Luxray,4,0405/;0405/0001/;0405/0000/0001/;0405/0001/0001/;0405/0000/0001/0002/;0405/0000/0000/0002/;0405/0001/0001/0002/;0405/0001/0000/0002/,Normal;Altcolor;Shiny;Altcolor Shiny;Shiny Female;Female;Altcolor Shiny Female;Altcolor Female
+0406,Budew,4,0406/;0406/0000/0001/,Normal;Shiny
+0407,Roserade,4,0407/;0407/0000/0001/;0407/0000/0001/0002/;0407/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0408,Cranidos,4,0408/;0408/0000/0001/,Normal;Shiny
+0409,Rampardos,4,0409/;0409/0000/0001/,Normal;Shiny
+0410,Shieldon,4,0410/;0410/0000/0001/,Normal;Shiny
+0411,Bastiodon,4,0411/;0411/0001/;0411/0000/0001/;0411/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0412,Burmy,4,0412/;0412/0001/;0412/0002/;0412/0000/0001/;0412/0001/0001/;0412/0002/0001/,Normal;Sand;Trash;Shiny;Sand Shiny;Trash Shiny
+0413,Wormadam,4,0413/;0413/0001/;0413/0002/;0413/0000/0001/;0413/0001/0001/;0413/0002/0001/,Normal;Sand;Trash;Shiny;Sand Shiny;Trash Shiny
+0414,Mothim,4,0414/;0414/0000/0001/,Normal;Shiny
+0415,Combee,4,0415/;0415/0000/0001/;0415/0000/0000/0002/;0415/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0416,Vespiquen,4,0416/;0416/0000/0001/,Normal;Shiny
+0417,Pachirisu,4,0417/;0417/0000/0001/;0417/0000/0001/0002/;0417/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0418,Buizel,4,0418/;0418/0000/0001/;0418/0000/0000/0002/;0418/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0419,Floatzel,4,0419/;0419/0000/0001/;0419/0000/0000/0002/;0419/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0420,Cherubi,4,0420/;0420/0000/0001/,Normal;Shiny
+0421,Cherrim,4,0421/;0421/0001/;0421/0002/;0421/0000/0001/;0421/0001/0001/,Normal;Sunshine;Altcolor;Shiny;Sunshine Shiny
+0422,Shellos,4,0422/;0422/0001/;0422/0000/0001/;0422/0001/0001/,Normal;East;Shiny;East Shiny
+0423,Gastrodon,4,0423/;0423/0001/;0423/0000/0001/;0423/0001/0001/,Normal;East;Shiny;East Shiny
+0424,Ambipom,4,0424/;0424/0000/0001/,Normal;Shiny
+0425,Drifloon,4,0425/;0425/0001/;0425/0000/0001/,Normal;Altcolor;Shiny
+0426,Drifblim,4,0426/;0426/0001/;0426/0000/0001/,Normal;Altcolor;Shiny
+0427,Buneary,4,0427/;0427/0000/0001/,Normal;Shiny
+0428,Lopunny,4,0428/;0428/0001/;0428/0002/;0428/0000/0001/;0428/0001/0001/;0428/0002/0001/,Normal;Mega;Cutscene;Shiny;Mega Shiny;Cutscene Shiny
+0429,Mismagius,4,0429/;0429/0001/;0429/0000/0001/,Normal;Altcolor;Shiny
+0430,Honchkrow,4,0430/;0430/0001/;0430/0000/0001/,Normal;Altcolor;Shiny
+0431,Glameow,4,0431/;0431/0001/;0431/0000/0001/,Normal;Alternate;Shiny
+0432,Purugly,4,0432/;0432/0001/;0432/0000/0001/,Normal;Altcolor;Shiny
+0433,Chingling,4,0433/;0433/0000/0001/,Normal;Shiny
+0434,Stunky,4,0434/;0434/0000/0001/,Normal;Shiny
+0435,Skuntank,4,0435/;0435/0001/;0435/0002/;0435/0000/0001/;0435/0001/0001/;0435/0002/0001/,Normal;Cutscene;Altcolor;Shiny;Cutscene Shiny;Altcolor Shiny
+0436,Bronzor,4,0436/;0436/0001/;0436/0000/0001/,Normal;Altcolor;Shiny
+0437,Bronzong,4,0437/;0437/0000/0001/,Normal;Shiny
+0438,Bonsly,4,0438/;0438/0001/;0438/0000/0001/,Normal;Altcolor;Shiny
+0439,Mime Jr.,4,0439/;0439/0001/;0439/0000/0001/,Normal;Altcolor;Shiny
+0440,Happiny,4,0440/;0440/0001/;0440/0000/0001/,Normal;Altcolor;Shiny
+0441,Chatot,4,0441/;0441/0001/;0441/0000/0001/;0441/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0442,Spiritomb,4,0442/;0442/0001/;0442/0003/;0442/0000/0001/;0442/0001/0001/,Normal;Cutscene;Cutscene Altcolor;Shiny;Cutscene Shiny
+0443,Gible,4,0443/;0443/0000/0001/;0443/0000/0000/0002/;0443/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0444,Gabite,4,0444/;0444/0000/0001/;0444/0000/0000/0002/;0444/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0445,Garchomp,4,0445/;0445/0002/;0445/0000/0001/;0445/0000/0000/0002/;0445/0000/0001/0002/;0445/0002/0000/0002/,Normal;Altcolor;Shiny;Female;Shiny Female;Altcolor Female
+0446,Munchlax,4,0446/;0446/0001/;0446/0000/0001/,Normal;Altcolor;Shiny
+0447,Riolu,4,0447/;0447/0000/0001/,Normal;Shiny
+0448,Lucario,4,0448/;0448/0001/;0448/0002/;0448/0000/0001/;0448/0001/0001/,Normal;Mega;Alternate;Shiny;Mega Shiny
+0449,Hippopotas,4,0449/;0449/0000/0001/;0449/0000/0000/0002/;0449/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0450,Hippowdon,4,0450/;0450/0000/0001/;0450/0000/0000/0002/;0450/0000/0001/0002/,Normal;Shiny;Female;Shiny Female
+0451,Skorupi,4,0451/;0451/0001/;0451/0000/0001/;0451/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0452,Drapion,4,0452/;0452/0001/;0452/0000/0001/;0452/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0453,Croagunk,4,0453/;0453/0001/;0453/0002/;0453/0003/;0453/0000/0001/;0453/0001/0001/;0453/0003/0001/;0453/0000/0001/0002/;0453/0000/0000/0002/;0453/0001/0001/0002/;0453/0001/0000/0002/;0453/0002/0000/0002/;0453/0003/0001/0002/;0453/0003/0000/0002/,Normal;Cutscene;Altcolor;Cutscene Altcolor;Shiny;Cutscene Shiny;Cutscene Altcolor Shiny;Shiny Female;Female;Cutscene Shiny Female;Cutscene Female;Altcolor Female;Cutscene Altcolor Shiny Female;Cutscene Altcolor Female
+0454,Toxicroak,4,0454/;0454/0000/0001/,Normal;Shiny
+0455,Carnivine,4,0455/;0455/0000/0001/,Normal;Shiny
+0456,Finneon,4,0456/;0456/0000/0001/,Normal;Shiny
+0457,Lumineon,4,0457/;0457/0000/0001/;0457/0000/0001/0002/;0457/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0458,Mantyke,4,0458/;0458/0001/;0458/0000/0001/,Normal;Altcolor;Shiny
+0459,Snover,4,0459/;0459/0001/;0459/0000/0001/;0459/0001/0001/;0459/0000/0000/0002/;0459/0000/0001/0002/,Normal;Cutscene;Shiny;Cutscene Shiny;Female;Shiny Female
+0460,Abomasnow,4,0460/;0460/0000/0001/,Normal;Shiny
+0461,Weavile,4,0461/;0461/0001/;0461/0000/0001/;0461/0001/0001/;0461/0002/0001/,Normal;Cutscene;Shiny;Cutscene Shiny;Altcolor Shiny
+0462,Magnezone,4,0462/;0462/0001/;0462/0000/0001/;0462/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0463,Lickilicky,4,0463/;0463/0000/0001/,Normal;Shiny
+0464,Rhyperior,4,0464/;0464/0000/0001/,Normal;Shiny
+0465,Tangrowth,4,0465/;0465/0001/;0465/0000/0001/;0465/0001/0001/;0465/0000/0001/0002/;0465/0000/0000/0002/;0465/0001/0001/0002/;0465/0001/0000/0002/,Normal;Altcolor;Shiny;Altcolor Shiny;Shiny Female;Female;Altcolor Shiny Female;Altcolor Female
+0466,Electivire,4,0466/;0466/0000/0001/,Normal;Shiny
+0467,Magmortar,4,0467/;0467/0000/0001/,Normal;Shiny
+0468,Togekiss,4,0468/;0468/0000/0001/,Normal;Shiny
+0469,Yanmega,4,0469/;0469/0000/0001/,Normal;Shiny
+0470,Leafeon,4,0470/;0470/0000/0001/,Normal;Shiny
+0471,Glaceon,4,0471/;0471/0001/;0471/0000/0001/,Normal;Altcolor;Shiny
+0472,Gliscor,4,0472/;0472/0001/;0472/0000/0001/;0472/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny
+0473,Mamoswine,4,0473/;0473/0001/;0473/0000/0001/;0473/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0474,Porygon-Z,4,0474/;0474/0001/;0474/0000/0001/;0474/0001/0001/,Normal;Alternate;Shiny;Alternate Shiny
+0475,Gallade,4,0475/;0475/0001/;0475/0002/;0475/0000/0001/;0475/0001/0001/,Normal;Mega;Altcolor;Shiny;Mega Shiny
+0476,Probopass,4,0476/;0476/0001/;0476/0002/;0476/0000/0001/;0476/0001/0001/,Normal;Beta;Altcolor;Shiny;Beta Shiny
+0477,Dusknoir,4,0477/;0477/0001/;0477/0000/0001/;0477/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0478,Froslass,4,0478/;0478/0000/0001/,Normal;Shiny
+0479,Rotom,4,0479/;0479/0001/;0479/0002/;0479/0003/;0479/0004/;0479/0005/;0479/0008/;0479/0000/0001/;0479/0001/0001/;0479/0002/0001/;0479/0003/0001/;0479/0004/0001/;0479/0005/0001/,Normal;Heat;Wash;Frost;Fan;Mow;Drone;Shiny;Heat Shiny;Wash Shiny;Frost Shiny;Fan Shiny;Mow Shiny
+0480,Uxie,4,0480/;0480/0000/0001/,Normal;Shiny
+0481,Mesprit,4,0481/;0481/0001/;0481/0000/0001/;0481/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0482,Azelf,4,0482/;0482/0001/;0482/0000/0001/;0482/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0483,Dialga,4,0483/;0483/0001/;0483/0002/;0483/0003/;0483/0005/;0483/0006/;0483/0000/0001/;0483/0001/0001/;0483/0005/0001/,Normal;Origin;Primal;Altcolor;Cutscene;Cutscene Altcolor;Shiny;Origin Shiny;Cutscene Shiny
+0484,Palkia,4,0484/;0484/0001/;0484/0002/;0484/0000/0001/;0484/0001/0001/;0484/0002/0001/,Normal;Origin;Cutscene;Shiny;Origin Shiny;Cutscene Shiny
+0485,Heatran,4,0485/;0485/0001/;0485/0000/0001/,Normal;Altcolor;Shiny
+0486,Regigigas,4,0486/;0486/0002/;0486/0000/0001/;0486/0002/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0487,Giratina,4,0487/;0487/0001/;0487/0002/;0487/0003/;0487/0000/0001/;0487/0001/0001/;0487/0002/0001/;0487/0003/0001/,Normal;Origin;Altcolor;Origin Alternate;Shiny;Origin Shiny;Altcolor Shiny;Origin Alternate Shiny
+0488,Cresselia,4,0488/;0488/0001/;0488/0000/0001/;0488/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0489,Phione,4,0489/;0489/0000/0001/,Normal;Shiny
+0490,Manaphy,4,0490/;0490/0001/;0490/0000/0001/;0490/0001/0001/,Normal;Cutscene;Shiny;Cutscene Shiny
+0491,Darkrai,4,0491/;0491/0001/;0491/0002/;0491/0003/;0491/0000/0001/;0491/0001/0001/,Normal;Cutscene;Altcolor;Cutscene Altcolor;Shiny;Cutscene Shiny
+0492,Shaymin,4,0492/;0492/0001/;0492/0002/;0492/0003/;0492/0000/0001/;0492/0001/0001/;0492/0002/0001/,Normal;Sky;Cutscene;Altcolor;Shiny;Sky Shiny;Cutscene Shiny
+0493,Arceus,4,0493/;0493/0001/;0493/0002/;0493/0003/;0493/0004/;0493/0005/;0493/0006/;0493/0007/;0493/0008/;0493/0009/;0493/0010/;0493/0011/;0493/0012/;0493/0013/;0493/0014/;0493/0015/;0493/0016/;0493/0017/;0493/0018/;0493/0019/;0493/0000/0001/;0493/0001/0001/;0493/0002/0001/;0493/0003/0001/;0493/0004/0001/;0493/0005/0001/;0493/0006/0001/;0493/0007/0001/;0493/0008/0001/;0493/0009/0001/;0493/0010/0001/;0493/0011/0001/;0493/0012/0001/;0493/0013/0001/;0493/0014/0001/;0493/0015/0001/;0493/0016/0001/;0493/0017/0001/;0493/0018/0001/,Normal;Bug;Dark;Dragon;Electric;Fighting;Fire;Flying;Ghost;Grass;Ground;Ice;Poison;Psychic;Rock;Steel;Water;Fairy;Question Mark;Beta;Shiny;Bug Shiny;Dark Shiny;Dragon Shiny;Electric Shiny;Fighting Shiny;Fire Shiny;Flying Shiny;Ghost Shiny;Grass Shiny;Ground Shiny;Ice Shiny;Poison Shiny;Psychic Shiny;Rock Shiny;Steel Shiny;Water Shiny;Fairy Shiny;Question Mark Shiny
+0494,Victini,4,0494/;0494/0000/0001/,Normal;Shiny
+0495,Snivy,5,0495/;0495/0000/0001/,Normal;Shiny
+0496,Servine,5,0496/;0496/0000/0001/,Normal;Shiny
+0497,Serperior,5,0497/;0497/0000/0001/,Normal;Shiny
+0498,Tepig,5,0498/;0498/0001/;0498/0000/0001/,Normal;Beta;Shiny
+0499,Pignite,5,0499/;0499/0000/0001/,Normal;Shiny
+0500,Emboar,5,0500/;0500/0000/0001/,Normal;Shiny
+0501,Oshawott,5,0501/;0501/0000/0001/,Normal;Shiny
+0502,Dewott,5,0502/;0502/0000/0001/,Normal;Shiny
+0503,Samurott,5,0503/;0503/0001/;0503/0000/0001/;0503/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0504,Patrat,5,0504/;0504/0000/0001/,Normal;Shiny
+0505,Watchog,5,0505/;0505/0000/0001/,Normal;Shiny
+0506,Lillipup,5,0506/;0506/0000/0001/,Normal;Shiny
+0507,Herdier,5,0507/;0507/0000/0001/,Normal;Shiny
+0508,Stoutland,5,0508/;0508/0000/0001/,Normal;Shiny
+0509,Purrloin,5,0509/;0509/0000/0001/,Normal;Shiny
+0510,Liepard,5,0510/;0510/0000/0001/,Normal;Shiny
+0511,Pansage,5,0511/;0511/0000/0001/,Normal;Shiny
+0512,Simisage,5,0512/;0512/0000/0001/,Normal;Shiny
+0513,Pansear,5,0513/;0513/0000/0001/,Normal;Shiny
+0514,Simisear,5,,
+0515,Panpour,5,0515/;0515/0000/0001/,Normal;Shiny
+0516,Simipour,5,,
+0517,Munna,5,0517/;0517/0000/0001/,Normal;Shiny
+0518,Musharna,5,0518/;0518/0000/0001/,Normal;Shiny
+0519,Pidove,5,0519/;0519/0000/0001/,Normal;Shiny
+0520,Tranquill,5,,
+0521,Unfezant,5,0521/;0521/0000/0001/;0521/0000/0001/0002/;0521/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0522,Blitzle,5,,
+0523,Zebstrika,5,,
+0524,Roggenrola,5,0524/;0524/0000/0001/,Normal;Shiny
+0525,Boldore,5,0525/;0525/0000/0001/,Normal;Shiny
+0526,Gigalith,5,0526/;0526/0000/0001/,Normal;Shiny
+0527,Woobat,5,0527/;0527/0000/0001/,Normal;Shiny
+0528,Swoobat,5,0528/;0528/0000/0001/,Normal;Shiny
+0529,Drilbur,5,0529/;0529/0000/0001/,Normal;Shiny
+0530,Excadrill,5,0530/;0530/0000/0001/,Normal;Shiny
+0531,Audino,5,0531/;0531/0000/0001/,Normal;Shiny
+0532,Timburr,5,0532/;0532/0000/0001/,Normal;Shiny
+0533,Gurdurr,5,0533/;0533/0000/0001/,Normal;Shiny
+0534,Conkeldurr,5,0534/;0534/0000/0001/,Normal;Shiny
+0535,Tympole,5,0535/;0535/0000/0001/,Normal;Shiny
+0536,Palpitoad,5,0536/;0536/0000/0001/,Normal;Shiny
+0537,Seismitoad,5,0537/;0537/0000/0001/,Normal;Shiny
+0538,Throh,5,,
+0539,Sawk,5,,
+0540,Sewaddle,5,0540/;0540/0000/0001/,Normal;Shiny
+0541,Swadloon,5,0541/;0541/0000/0001/,Normal;Shiny
+0542,Leavanny,5,0542/;0542/0000/0001/,Normal;Shiny
+0543,Venipede,5,0543/;0543/0000/0001/,Normal;Shiny
+0544,Whirlipede,5,0544/;0544/0000/0001/,Normal;Shiny
+0545,Scolipede,5,0545/;0545/0000/0001/,Normal;Shiny
+0546,Cottonee,5,0546/;0546/0000/0001/,Normal;Shiny
+0547,Whimsicott,5,0547/;0547/0000/0001/,Normal;Shiny
+0548,Petilil,5,0548/;0548/0000/0001/,Normal;Shiny
+0549,Lilligant,5,0549/;0549/0001/;0549/0000/0001/;0549/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0550,Basculin,5,0550/;0550/0001/;0550/0002/;0550/0000/0001/;0550/0001/0001/;0550/0002/0001/,Normal;Blue;White;Shiny;Blue Shiny;White Shiny
+0551,Sandile,5,0551/;0551/0000/0001/,Normal;Shiny
+0552,Krokorok,5,0552/;0552/0000/0001/,Normal;Shiny
+0553,Krookodile,5,0553/;0553/0000/0001/,Normal;Shiny
+0554,Darumaka,5,0554/;0554/0001/;0554/0000/0001/,Normal;Galar;Shiny
+0555,Darmanitan,5,0555/;0555/0001/;0555/0000/0001/;0555/0001/0001/,Normal;Zen;Shiny;Zen Shiny
+0556,Maractus,5,0556/;0556/0000/0001/,Normal;Shiny
+0557,Dwebble,5,0557/;0557/0000/0001/,Normal;Shiny
+0558,Crustle,5,,
+0559,Scraggy,5,0559/;0559/0000/0001/,Normal;Shiny
+0560,Scrafty,5,0560/;0560/0000/0001/,Normal;Shiny
+0561,Sigilyph,5,0561/;0561/0000/0001/,Normal;Shiny
+0562,Yamask,5,0562/;0562/0001/;0562/0000/0001/;0562/0001/0001/,Normal;Galar;Shiny;Galar Shiny
+0563,Cofagrigus,5,0563/;0563/0000/0001/,Normal;Shiny
+0564,Tirtouga,5,,
+0565,Carracosta,5,,
+0566,Archen,5,0566/;0566/0000/0001/,Normal;Shiny
+0567,Archeops,5,0567/;0567/0001/;0567/0000/0001/;0567/0001/0001/,Normal;Alternate;Shiny;Alternate Shiny
+0568,Trubbish,5,0568/;0568/0000/0001/,Normal;Shiny
+0569,Garbodor,5,0569/;0569/0000/0001/,Normal;Shiny
+0570,Zorua,5,0570/;0570/0001/;0570/0000/0001/;0570/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0571,Zoroark,5,0571/;0571/0001/;0571/0000/0001/;0571/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0572,Minccino,5,0572/;0572/0000/0001/,Normal;Shiny
+0573,Cinccino,5,0573/;0573/0000/0001/,Normal;Shiny
+0574,Gothita,5,0574/;0574/0000/0001/,Normal;Shiny
+0575,Gothorita,5,0575/;0575/0000/0001/,Normal;Shiny
+0576,Gothitelle,5,0576/;0576/0000/0001/,Normal;Shiny
+0577,Solosis,5,0577/;0577/0000/0001/,Normal;Shiny
+0578,Duosion,5,0578/;0578/0000/0001/,Normal;Shiny
+0579,Reuniclus,5,0579/;0579/0000/0001/,Normal;Shiny
+0580,Ducklett,5,,
+0581,Swanna,5,0581/;0581/0000/0001/,Normal;Shiny
+0582,Vanillite,5,0582/;0582/0000/0001/,Normal;Shiny
+0583,Vanillish,5,0583/;0583/0000/0001/,Normal;Shiny
+0584,Vanilluxe,5,0584/;0584/0000/0001/,Normal;Shiny
+0585,Deerling,5,0585/;0585/0001/;0585/0002/;0585/0003/;0585/0000/0001/;0585/0001/0001/;0585/0002/0001/;0585/0003/0001/,Normal;Summer;Autumn;Winter;Shiny;Summer Shiny;Autumn Shiny;Winter Shiny
+0586,Sawsbuck,5,0586/;0586/0001/;0586/0002/;0586/0003/;0586/0000/0001/;0586/0001/0001/;0586/0002/0001/;0586/0003/0001/,Normal;Summer;Autumn;Winter;Shiny;Summer Shiny;Autumn Shiny;Winter Shiny
+0587,Emolga,5,0587/;0587/0000/0001/,Normal;Shiny
+0588,Karrablast,5,,
+0589,Escavalier,5,0589/;0589/0000/0001/,Normal;Shiny
+0590,Foongus,5,0590/;0590/0000/0001/,Normal;Shiny
+0591,Amoonguss,5,,
+0592,Frillish,5,,
+0593,Jellicent,5,0593/;0593/0000/0001/;0593/0000/0001/0002/;0593/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0594,Alomomola,5,,
+0595,Joltik,5,0595/;0595/0000/0001/,Normal;Shiny
+0596,Galvantula,5,0596/;0596/0000/0001/,Normal;Shiny
+0597,Ferroseed,5,0597/;0597/0000/0001/,Normal;Shiny
+0598,Ferrothorn,5,0598/;0598/0000/0001/,Normal;Shiny
+0599,Klink,5,,
+0600,Klang,5,,
+0601,Klinklang,5,,
+0602,Tynamo,5,0602/;0602/0000/0001/,Normal;Shiny
+0603,Eelektrik,5,0603/;0603/0000/0001/,Normal;Shiny
+0604,Eelektross,5,0604/;0604/0000/0001/,Normal;Shiny
+0605,Elgyem,5,0605/;0605/0000/0001/,Normal;Shiny
+0606,Beheeyem,5,0606/;0606/0000/0001/,Normal;Shiny
+0607,Litwick,5,0607/;0607/0000/0001/,Normal;Shiny
+0608,Lampent,5,0608/;0608/0000/0001/,Normal;Shiny
+0609,Chandelure,5,0609/;0609/0000/0001/,Normal;Shiny
+0610,Axew,5,0610/;0610/0000/0001/,Normal;Shiny
+0611,Fraxure,5,0611/;0611/0000/0001/,Normal;Shiny
+0612,Haxorus,5,0612/;0612/0000/0001/,Normal;Shiny
+0613,Cubchoo,5,0613/;0613/0000/0001/,Normal;Shiny
+0614,Beartic,5,0614/;0614/0000/0001/,Normal;Shiny
+0615,Cryogonal,5,0615/;0615/0000/0001/,Normal;Shiny
+0616,Shelmet,5,,
+0617,Accelgor,5,,
+0618,Stunfisk,5,0618/;0618/0000/0001/,Normal;Shiny
+0619,Mienfoo,5,0619/;0619/0000/0001/,Normal;Shiny
+0620,Mienshao,5,0620/;0620/0000/0001/,Normal;Shiny
+0621,Druddigon,5,0621/;0621/0000/0001/,Normal;Shiny
+0622,Golett,5,0622/;0622/0000/0001/,Normal;Shiny
+0623,Golurk,5,0623/;0623/0000/0001/,Normal;Shiny
+0624,Pawniard,5,0624/;0624/0000/0001/,Normal;Shiny
+0625,Bisharp,5,0625/;0625/0000/0001/,Normal;Shiny
+0626,Bouffalant,5,,
+0627,Rufflet,5,0627/;0627/0000/0001/,Normal;Shiny
+0628,Braviary,5,0628/;0628/0001/;0628/0000/0001/;0628/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0629,Vullaby,5,0629/;0629/0000/0001/,Normal;Shiny
+0630,Mandibuzz,5,0630/;0630/0000/0001/,Normal;Shiny
+0631,Heatmor,5,0631/;0631/0000/0001/,Normal;Shiny
+0632,Durant,5,0632/;0632/0000/0001/,Normal;Shiny
+0633,Deino,5,0633/;0633/0000/0001/,Normal;Shiny
+0634,Zweilous,5,0634/;0634/0000/0001/,Normal;Shiny
+0635,Hydreigon,5,0635/;0635/0000/0001/,Normal;Shiny
+0636,Larvesta,5,0636/;0636/0000/0001/,Normal;Shiny
+0637,Volcarona,5,0637/;0637/0000/0001/,Normal;Shiny
+0638,Cobalion,5,0638/;0638/0000/0001/,Normal;Shiny
+0639,Terrakion,5,0639/;0639/0000/0001/,Normal;Shiny
+0640,Virizion,5,0640/;0640/0000/0001/,Normal;Shiny
+0641,Tornadus,5,0641/;0641/0000/0001/,Normal;Shiny
+0642,Thundurus,5,0642/;0642/0000/0001/,Normal;Shiny
+0643,Reshiram,5,0643/;0643/0001/;0643/0000/0001/;0643/0001/0001/,Normal;Skytemple;Shiny;Skytemple Shiny
+0644,Zekrom,5,0644/;0644/0000/0001/,Normal;Shiny
+0645,Landorus,5,0645/;0645/0001/;0645/0000/0001/;0645/0001/0001/,Normal;Therian;Shiny;Therian Shiny
+0646,Kyurem,5,0646/;0646/0001/;0646/0002/;0646/0006/;0646/0007/;0646/0000/0001/;0646/0001/0001/;0646/0002/0001/;0646/0006/0001/;0646/0007/0001/,Normal;Black;White;White Skytemple;Black Skytemple;Shiny;Black Shiny;White Shiny;White Skytemple Shiny;Black Skytemple Shiny
+0647,Keldeo,5,0647/;0647/0000/0001/,Normal;Shiny
+0648,Meloetta,5,0648/;0648/0001/;0648/0000/0001/;0648/0001/0001/,Normal;Pirouette;Shiny;Pirouette Shiny
+0649,Genesect,5,0649/;0649/0001/;0649/0002/;0649/0003/;0649/0004/;0649/0000/0001/;0649/0001/0001/;0649/0002/0001/;0649/0003/0001/;0649/0004/0001/,Normal;Douse;Shock;Burn;Chill;Shiny;Douse Shiny;Shock Shiny;Burn Shiny;Chill Shiny
+0650,Chespin,6,0650/;0650/0000/0001/,Normal;Shiny
+0651,Quilladin,6,0651/;0651/0000/0001/,Normal;Shiny
+0652,Chesnaught,6,0652/;0652/0000/0001/,Normal;Shiny
+0653,Fennekin,6,0653/;0653/0000/0001/,Normal;Shiny
+0654,Braixen,6,0654/;0654/0000/0001/,Normal;Shiny
+0655,Delphox,6,0655/;0655/0000/0001/,Normal;Shiny
+0656,Froakie,6,0656/;0656/0000/0001/,Normal;Shiny
+0657,Frogadier,6,0657/;0657/0000/0001/,Normal;Shiny
+0658,Greninja,6,0658/;0658/0000/0001/,Normal;Shiny
+0659,Bunnelby,6,0659/;0659/0000/0001/,Normal;Shiny
+0660,Diggersby,6,,
+0661,Fletchling,6,0661/;0661/0000/0001/,Normal;Shiny
+0662,Fletchinder,6,0662/;0662/0000/0001/,Normal;Shiny
+0663,Talonflame,6,0663/;0663/0000/0001/,Normal;Shiny
+0664,Scatterbug,6,0664/;0664/0000/0001/,Normal;Shiny
+0665,Spewpa,6,0665/;0665/0000/0001/,Normal;Shiny
+0666,Vivillon,6,0666/;0666/0001/;0666/0002/;0666/0003/;0666/0004/;0666/0005/;0666/0006/;0666/0007/;0666/0008/;0666/0009/;0666/0010/;0666/0011/;0666/0012/;0666/0013/;0666/0014/;0666/0015/;0666/0016/;0666/0017/;0666/0018/;0666/0019/;0666/0000/0001/;0666/0001/0001/;0666/0002/0001/;0666/0003/0001/;0666/0004/0001/;0666/0005/0001/;0666/0006/0001/;0666/0007/0001/;0666/0008/0001/;0666/0009/0001/;0666/0010/0001/;0666/0011/0001/;0666/0012/0001/;0666/0013/0001/;0666/0014/0001/;0666/0015/0001/;0666/0016/0001/;0666/0017/0001/;0666/0018/0001/;0666/0019/0001/,Normal;Icy Snow;Polar;Tundra;Continental;Garden;Elegant;Modern;Marine;Archipelago;High Plains;Sandstorm;River;Monsoon;Savannah;Sun;Ocean;Jungle;Fancy;Pokeball;Shiny;Icy Snow Shiny;Polar Shiny;Tundra Shiny;Continental Shiny;Garden Shiny;Elegant Shiny;Modern Shiny;Marine Shiny;Archipelago Shiny;High Plains Shiny;Sandstorm Shiny;River Shiny;Monsoon Shiny;Savannah Shiny;Sun Shiny;Ocean Shiny;Jungle Shiny;Fancy Shiny;Pokeball Shiny
+0667,Litleo,6,0667/;0667/0000/0001/,Normal;Shiny
+0668,Pyroar,6,0668/0000/0001/0002/;0668/0000/0000/0002/,Shiny Female;Female
+0669,Flabebe,6,0669/;0669/0001/;0669/0002/;0669/0003/;0669/0004/;0669/0000/0001/;0669/0001/0001/;0669/0002/0001/;0669/0003/0001/;0669/0004/0001/,Normal;Yellow;Orange;Blue;White;Shiny;Yellow Shiny;Orange Shiny;Blue Shiny;White Shiny
+0670,Floette,6,0670/;0670/0001/;0670/0002/;0670/0003/;0670/0004/;0670/0005/;0670/0000/0001/;0670/0001/0001/;0670/0002/0001/;0670/0003/0001/;0670/0004/0001/;0670/0005/0001/,Normal;Yellow;Orange;Blue;White;Eternal;Shiny;Yellow Shiny;Orange Shiny;Blue Shiny;White Shiny;Eternal Shiny
+0671,Florges,6,0671/;0671/0001/;0671/0002/;0671/0003/;0671/0004/;0671/0000/0001/;0671/0001/0001/;0671/0002/0001/;0671/0003/0001/;0671/0004/0001/,Normal;Yellow;Orange;Blue;White;Shiny;Yellow Shiny;Orange Shiny;Blue Shiny;White Shiny
+0672,Skiddo,6,0672/;0672/0000/0001/,Normal;Shiny
+0673,Gogoat,6,0673/;0673/0000/0001/,Normal;Shiny
+0674,Pancham,6,0674/;0674/0000/0001/,Normal;Shiny
+0675,Pangoro,6,0675/;0675/0000/0001/,Normal;Shiny
+0676,Furfrou,6,0676/;0676/0008/;0676/0000/0001/;0676/0008/0001/,Normal;Kabuki;Shiny;Kabuki Shiny
+0677,Espurr,6,0677/;0677/0000/0001/,Normal;Shiny
+0678,Meowstic,6,0678/;0678/0000/0001/;0678/0000/0001/0002/;0678/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0679,Honedge,6,0679/;0679/0000/0001/,Normal;Shiny
+0680,Doublade,6,0680/;0680/0000/0001/,Normal;Shiny
+0681,Aegislash,6,0681/;0681/0001/;0681/0000/0001/;0681/0001/0001/,Normal;Blade;Shiny;Blade Shiny
+0682,Spritzee,6,0682/;0682/0000/0001/,Normal;Shiny
+0683,Aromatisse,6,0683/;0683/0000/0001/,Normal;Shiny
+0684,Swirlix,6,0684/;0684/0000/0001/,Normal;Shiny
+0685,Slurpuff,6,0685/;0685/0000/0001/,Normal;Shiny
+0686,Inkay,6,0686/;0686/0000/0001/,Normal;Shiny
+0687,Malamar,6,0687/;0687/0000/0001/,Normal;Shiny
+0688,Binacle,6,0688/;0688/0000/0001/,Normal;Shiny
+0689,Barbaracle,6,0689/;0689/0000/0001/,Normal;Shiny
+0690,Skrelp,6,0690/;0690/0000/0001/,Normal;Shiny
+0691,Dragalge,6,0691/;0691/0000/0001/,Normal;Shiny
+0692,Clauncher,6,0692/;0692/0000/0001/,Normal;Shiny
+0693,Clawitzer,6,0693/;0693/0000/0001/,Normal;Shiny
+0694,Helioptile,6,0694/;0694/0000/0001/,Normal;Shiny
+0695,Heliolisk,6,0695/;0695/0000/0001/,Normal;Shiny
+0696,Tyrunt,6,0696/;0696/0000/0001/,Normal;Shiny
+0697,Tyrantrum,6,0697/;0697/0000/0001/,Normal;Shiny
+0698,Amaura,6,0698/;0698/0000/0001/,Normal;Shiny
+0699,Aurorus,6,0699/;0699/0000/0001/,Normal;Shiny
+0700,Sylveon,6,0700/;0700/0000/0001/,Normal;Shiny
+0701,Hawlucha,6,0701/;0701/0002/;0701/0000/0001/,Normal;Beta;Shiny
+0702,Dedenne,6,0702/;0702/0000/0001/,Normal;Shiny
+0703,Carbink,6,0703/;0703/0000/0001/,Normal;Shiny
+0704,Goomy,6,0704/;0704/0000/0001/,Normal;Shiny
+0705,Sliggoo,6,0705/;0705/0001/;0705/0000/0001/;0705/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0706,Goodra,6,0706/;0706/0001/;0706/0000/0001/;0706/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0707,Klefki,6,0707/;0707/0000/0001/,Normal;Shiny
+0708,Phantump,6,0708/;0708/0000/0001/,Normal;Shiny
+0709,Trevenant,6,0709/;0709/0000/0001/,Normal;Shiny
+0710,Pumpkaboo,6,0710/;0710/0001/;0710/0002/;0710/0003/;0710/0000/0001/;0710/0001/0001/;0710/0002/0001/;0710/0003/0001/,Normal;Small;Large;Super;Shiny;Small Shiny;Large Shiny;Super Shiny
+0711,Gourgeist,6,0711/;0711/0003/;0711/0000/0001/;0711/0003/0001/,Normal;Super;Shiny;Super Shiny
+0712,Bergmite,6,0712/;0712/0000/0001/,Normal;Shiny
+0713,Avalugg,6,,
+0714,Noibat,6,0714/;0714/0000/0001/,Normal;Shiny
+0715,Noivern,6,0715/;0715/0000/0001/,Normal;Shiny
+0716,Xerneas,6,0716/;0716/0001/;0716/0000/0001/;0716/0001/0001/,Normal;Neutral;Shiny;Neutral Shiny
+0717,Yveltal,6,0717/;0717/0000/0001/,Normal;Shiny
+0718,Zygarde,6,0718/;0718/0001/;0718/0002/;0718/0005/;0718/0000/0001/;0718/0001/0001/;0718/0002/0001/;0718/0005/0001/,Normal;10;Complete;Complete Skytemple;Shiny;10 Shiny;Complete Shiny;Complete Skytemple Shiny
+0719,Diancie,6,0719/;0719/0001/;0719/0000/0001/;0719/0001/0001/,Normal;Mega;Shiny;Mega Shiny
+0720,Hoopa,6,0720/;0720/0001/;0720/0000/0001/;0720/0001/0001/,Normal;Unbound;Shiny;Unbound Shiny
+0721,Volcanion,6,0721/;0721/0000/0001/,Normal;Shiny
+0722,Rowlet,7,0722/;0722/0000/0001/,Normal;Shiny
+0723,Dartrix,7,0723/;0723/0000/0001/,Normal;Shiny
+0724,Decidueye,7,0724/;0724/0001/;0724/0000/0001/;0724/0001/0001/,Normal;Hisui;Shiny;Hisui Shiny
+0725,Litten,7,0725/;0725/0000/0001/,Normal;Shiny
+0726,Torracat,7,0726/;0726/0000/0001/,Normal;Shiny
+0727,Incineroar,7,0727/;0727/0000/0001/,Normal;Shiny
+0728,Popplio,7,0728/;0728/0000/0001/,Normal;Shiny
+0729,Brionne,7,0729/;0729/0000/0001/,Normal;Shiny
+0730,Primarina,7,0730/;0730/0000/0001/,Normal;Shiny
+0731,Pikipek,7,,
+0732,Trumbeak,7,,
+0733,Toucannon,7,0733/;0733/0000/0001/,Normal;Shiny
+0734,Yungoos,7,,
+0735,Gumshoos,7,,
+0736,Grubbin,7,0736/;0736/0000/0001/,Normal;Shiny
+0737,Charjabug,7,0737/;0737/0000/0001/,Normal;Shiny
+0738,Vikavolt,7,0738/;0738/0000/0001/,Normal;Shiny
+0739,Crabrawler,7,0739/;0739/0000/0001/,Normal;Shiny
+0740,Crabominable,7,0740/;0740/0000/0001/,Normal;Shiny
+0741,Oricorio,7,0741/0001/;0741/0001/0001/,Pom Pom;Pom Pom Shiny
+0742,Cutiefly,7,0742/;0742/0000/0001/,Normal;Shiny
+0743,Ribombee,7,0743/;0743/0000/0001/,Normal;Shiny
+0744,Rockruff,7,0744/;0744/0000/0001/,Normal;Shiny
+0745,Lycanroc,7,0745/;0745/0001/;0745/0002/;0745/0000/0001/;0745/0001/0001/;0745/0002/0001/,Normal;Midnight;Dusk;Shiny;Midnight Shiny;Dusk Shiny
+0746,Wishiwashi,7,0746/;0746/0001/;0746/0000/0001/;0746/0001/0001/,Normal;School;Shiny;School Shiny
+0747,Mareanie,7,0747/;0747/0000/0001/,Normal;Shiny
+0748,Toxapex,7,,
+0749,Mudbray,7,0749/;0749/0000/0001/,Normal;Shiny
+0750,Mudsdale,7,0750/,Normal
+0751,Dewpider,7,0751/;0751/0000/0001/,Normal;Shiny
+0752,Araquanid,7,0752/;0752/0000/0001/,Normal;Shiny
+0753,Fomantis,7,0753/;0753/0000/0001/,Normal;Shiny
+0754,Lurantis,7,0754/;0754/0000/0001/,Normal;Shiny
+0755,Morelull,7,0755/;0755/0000/0001/,Normal;Shiny
+0756,Shiinotic,7,,
+0757,Salandit,7,0757/;0757/0000/0001/,Normal;Shiny
+0758,Salazzle,7,0758/;0758/0000/0001/,Normal;Shiny
+0759,Stufful,7,0759/;0759/0000/0001/,Normal;Shiny
+0760,Bewear,7,0760/;0760/0000/0001/,Normal;Shiny
+0761,Bounsweet,7,0761/;0761/0000/0001/,Normal;Shiny
+0762,Steenee,7,0762/;0762/0000/0001/,Normal;Shiny
+0763,Tsareena,7,0763/;0763/0000/0001/,Normal;Shiny
+0764,Comfey,7,0764/;0764/0000/0001/,Normal;Shiny
+0765,Oranguru,7,,
+0766,Passimian,7,0766/;0766/0000/0001/,Normal;Shiny
+0767,Wimpod,7,0767/;0767/0000/0001/,Normal;Shiny
+0768,Golisopod,7,0768/;0768/0001/;0768/0000/0001/;0768/0001/0001/,Normal;Alternate;Shiny;Alternate Shiny
+0769,Sandygast,7,0769/;0769/0000/0001/,Normal;Shiny
+0770,Palossand,7,0770/;0770/0000/0001/,Normal;Shiny
+0771,Pyukumuku,7,0771/;0771/0000/0001/,Normal;Shiny
+0772,Type Null,7,0772/;0772/0000/0001/,Normal;Shiny
+0773,Silvally,7,0773/;0773/0001/;0773/0002/;0773/0003/;0773/0004/;0773/0005/;0773/0006/;0773/0007/;0773/0008/;0773/0009/;0773/0010/;0773/0011/;0773/0012/;0773/0013/;0773/0014/;0773/0015/;0773/0016/;0773/0017/;0773/0000/0001/;0773/0001/0001/;0773/0002/0001/;0773/0003/0001/;0773/0004/0001/;0773/0005/0001/;0773/0006/0001/;0773/0007/0001/;0773/0008/0001/;0773/0009/0001/;0773/0010/0001/;0773/0011/0001/;0773/0012/0001/;0773/0013/0001/;0773/0014/0001/;0773/0015/0001/;0773/0016/0001/;0773/0017/0001/,Normal;Fighting;Flying;Poison;Ground;Rock;Bug;Ghost;Steel;Fire;Water;Grass;Electric;Psychic;Ice;Dragon;Dark;Fairy;Shiny;Fighting Shiny;Flying Shiny;Poison Shiny;Ground Shiny;Rock Shiny;Bug Shiny;Ghost Shiny;Steel Shiny;Fire Shiny;Water Shiny;Grass Shiny;Electric Shiny;Psychic Shiny;Ice Shiny;Dragon Shiny;Dark Shiny;Fairy Shiny
+0774,Minior,7,0774/;0774/0001/;0774/0002/;0774/0003/;0774/0004/;0774/0005/;0774/0006/;0774/0007/;0774/0000/0001/,Normal;Red;Orange;Yellow;Green;Blue;Indigo;Violet;Shiny
+0775,Komala,7,,
+0776,Turtonator,7,0776/;0776/0000/0001/,Normal;Shiny
+0777,Togedemaru,7,0777/;0777/0000/0001/,Normal;Shiny
+0778,Mimikyu,7,0778/;0778/0001/;0778/0000/0001/;0778/0001/0001/,Normal;Busted;Shiny;Busted Shiny
+0779,Bruxish,7,0779/;0779/0000/0001/,Normal;Shiny
+0780,Drampa,7,0780/;0780/0000/0001/,Normal;Shiny
+0781,Dhelmise,7,0781/;0781/0000/0001/,Normal;Shiny
+0782,Jangmo-o,7,0782/;0782/0000/0001/,Normal;Shiny
+0783,Hakamo-o,7,0783/;0783/0000/0001/,Normal;Shiny
+0784,Kommo-o,7,0784/;0784/0000/0001/,Normal;Shiny
+0785,Tapu Koko,7,0785/;0785/0000/0001/,Normal;Shiny
+0786,Tapu Lele,7,0786/;0786/0000/0001/,Normal;Shiny
+0787,Tapu Bulu,7,0787/;0787/0000/0001/,Normal;Shiny
+0788,Tapu Fini,7,0788/;0788/0000/0001/,Normal;Shiny
+0789,Cosmog,7,0789/;0789/0000/0001/,Normal;Shiny
+0790,Cosmoem,7,0790/;0790/0000/0001/,Normal;Shiny
+0791,Solgaleo,7,0791/;0791/0000/0001/,Normal;Shiny
+0792,Lunala,7,0792/;0792/0000/0001/,Normal;Shiny
+0793,Nihilego,7,0793/;0793/0000/0001/,Normal;Shiny
+0794,Buzzwole,7,0794/;0794/0000/0001/,Normal;Shiny
+0795,Pheromosa,7,0795/;0795/0000/0001/,Normal;Shiny
+0796,Xurkitree,7,0796/;0796/0000/0001/,Normal;Shiny
+0797,Celesteela,7,0797/;0797/0000/0001/,Normal;Shiny
+0798,Kartana,7,0798/;0798/0000/0001/,Normal;Shiny
+0799,Guzzlord,7,0799/;0799/0000/0001/,Normal;Shiny
+0800,Necrozma,7,0800/;0800/0003/;0800/0000/0001/;0800/0003/0001/,Normal;Ultra;Shiny;Ultra Shiny
+0801,Magearna,7,0801/;0801/0001/;0801/0000/0001/;0801/0001/0001/,Normal;Original;Shiny;Original Shiny
+0802,Marshadow,7,0802/;0802/0001/;0802/0000/0001/;0802/0001/0001/,Normal;Alternate;Shiny;Alternate Shiny
+0803,Poipole,7,0803/;0803/0000/0001/,Normal;Shiny
+0804,Naganadel,7,0804/;0804/0000/0001/,Normal;Shiny
+0805,Stakataka,7,0805/;0805/0000/0001/,Normal;Shiny
+0806,Blacephalon,7,0806/;0806/0000/0001/,Normal;Shiny
+0807,Zeraora,7,0807/;0807/0000/0001/,Normal;Shiny
+0808,Meltan,7,0808/;0808/0000/0001/,Normal;Shiny
+0809,Melmetal,7,0809/;0809/0000/0001/,Normal;Shiny
+0810,Grookey,8,0810/;0810/0000/0001/,Normal;Shiny
+0811,Thwackey,8,0811/;0811/0000/0001/,Normal;Shiny
+0812,Rillaboom,8,0812/;0812/0000/0001/,Normal;Shiny
+0813,Scorbunny,8,0813/;0813/0000/0001/,Normal;Shiny
+0814,Raboot,8,0814/;0814/0000/0001/,Normal;Shiny
+0815,Cinderace,8,0815/;0815/0000/0001/,Normal;Shiny
+0816,Sobble,8,0816/;0816/0000/0001/,Normal;Shiny
+0817,Drizzile,8,0817/;0817/0000/0001/,Normal;Shiny
+0818,Inteleon,8,0818/;0818/0000/0001/,Normal;Shiny
+0819,Skwovet,8,,
+0820,Greedent,8,,
+0821,Rookidee,8,0821/;0821/0000/0001/,Normal;Shiny
+0822,Corvisquire,8,0822/;0822/0000/0001/,Normal;Shiny
+0823,Corviknight,8,0823/;0823/0000/0001/,Normal;Shiny
+0824,Blipbug,8,0824/;0824/0000/0001/,Normal;Shiny
+0825,Dottler,8,0825/;0825/0000/0001/,Normal;Shiny
+0826,Orbeetle,8,0826/;0826/0000/0001/,Normal;Shiny
+0827,Nickit,8,0827/;0827/0000/0001/,Normal;Shiny
+0828,Thievul,8,0828/;0828/0000/0001/,Normal;Shiny
+0829,Gossifleur,8,0829/;0829/0000/0001/,Normal;Shiny
+0830,Eldegoss,8,0830/;0830/0001/;0830/0000/0001/;0830/0001/0001/,Normal;Alternate;Shiny;Alternate Shiny
+0831,Wooloo,8,0831/;0831/0001/;0831/0000/0001/;0831/0001/0001/,Normal;Alternate;Shiny;Alternate Shiny
+0832,Dubwool,8,,
+0833,Chewtle,8,0833/;0833/0000/0001/,Normal;Shiny
+0834,Drednaw,8,0834/;0834/0000/0001/,Normal;Shiny
+0835,Yamper,8,0835/;0835/0000/0001/,Normal;Shiny
+0836,Boltund,8,,
+0837,Rolycoly,8,,
+0838,Carkol,8,,
+0839,Coalossal,8,,
+0840,Applin,8,0840/;0840/0001/;0840/0000/0001/,Normal;No Apple;Shiny
+0841,Flapple,8,0841/;0841/0000/0001/,Normal;Shiny
+0842,Appletun,8,0842/;0842/0000/0001/,Normal;Shiny
+0843,Silicobra,8,0843/;0843/0000/0001/,Normal;Shiny
+0844,Sandaconda,8,0844/;0844/0000/0001/,Normal;Shiny
+0845,Cramorant,8,0845/;0845/0000/0001/,Normal;Shiny
+0846,Arrokuda,8,0846/;0846/0000/0001/,Normal;Shiny
+0847,Barraskewda,8,,
+0848,Toxel,8,0848/;0848/0000/0001/,Normal;Shiny
+0849,Toxtricity,8,0849/;0849/0001/;0849/0000/0001/;0849/0001/0001/,Normal;Lowkey;Shiny;Lowkey Shiny
+0850,Sizzlipede,8,0850/;0850/0000/0001/,Normal;Shiny
+0851,Centiskorch,8,0851/;0851/0000/0001/,Normal;Shiny
+0852,Clobbopus,8,0852/;0852/0000/0001/,Normal;Shiny
+0853,Grapploct,8,0853/;0853/0000/0001/,Normal;Shiny
+0854,Sinistea,8,0854/;0854/0000/0001/,Normal;Shiny
+0855,Polteageist,8,0855/;0855/0000/0001/,Normal;Shiny
+0856,Hatenna,8,0856/;0856/0000/0001/,Normal;Shiny
+0857,Hattrem,8,0857/;0857/0000/0001/,Normal;Shiny
+0858,Hatterene,8,0858/;0858/0000/0001/,Normal;Shiny
+0859,Impidimp,8,0859/;0859/0000/0001/,Normal;Shiny
+0860,Morgrem,8,0860/;0860/0000/0001/,Normal;Shiny
+0861,Grimmsnarl,8,0861/;0861/0000/0001/,Normal;Shiny
+0862,Obstagoon,8,0862/;0862/0000/0001/,Normal;Shiny
+0863,Perrserker,8,,
+0864,Cursola,8,0864/;0864/0000/0001/,Normal;Shiny
+0865,Sirfetch,8,0865/;0865/0000/0001/,Normal;Shiny
+0866,Mr Rime,8,,
+0867,Runerigus,8,0867/;0867/0000/0001/,Normal;Shiny
+0868,Milcery,8,0868/,Normal
+0869,Alcremie,8,0869/;0869/0001/;0869/0002/;0869/0003/;0869/0004/;0869/0005/;0869/0006/;0869/0007/;0869/0008/;0869/0009/;0869/0010/;0869/0011/;0869/0012/;0869/0013/;0869/0014/;0869/0015/;0869/0016/;0869/0017/;0869/0018/;0869/0019/;0869/0020/;0869/0021/;0869/0022/;0869/0023/;0869/0024/;0869/0025/;0869/0026/;0869/0027/;0869/0028/;0869/0029/;0869/0030/;0869/0031/;0869/0032/;0869/0033/;0869/0034/;0869/0035/;0869/0036/;0869/0037/;0869/0038/;0869/0039/;0869/0040/;0869/0041/;0869/0042/;0869/0043/;0869/0044/;0869/0045/;0869/0046/;0869/0047/;0869/0048/;0869/0049/;0869/0050/;0869/0051/;0869/0052/;0869/0053/;0869/0054/;0869/0055/;0869/0056/;0869/0057/;0869/0058/;0869/0059/;0869/0060/;0869/0061/;0869/0062/;0869/0063/;0869/0000/0001/;0869/0001/0001/;0869/0002/0001/;0869/0003/0001/;0869/0004/0001/;0869/0005/0001/;0869/0006/0001/;0869/0063/0001/,Normal;Berry Sweet;Love Sweet;Star Sweet;Clover Sweet;Flower Sweet;Ribbon Sweet;Ruby Cream Strawberry Sweet;Ruby Cream Berry Sweet;Ruby Cream Love Sweet;Ruby Cream Star Sweet;Ruby Cream Clover Sweet;Ruby Cream Flower Sweet;Ruby Cream Ribbon Sweet;Matcha Cream Strawberry Sweet;Matcha Cream Berry Sweet;Matcha Cream Love Sweet;Matcha Cream Star Sweet;Matcha Cream Clover Sweet;Matcha Cream Flower Sweet;Matcha Cream Ribbon Sweet;Mint Cream Strawberry Sweet;Mint Cream Berry Sweet;Mint Cream Love Sweet;Mint Cream Star Sweet;Mint Cream Clover Sweet;Mint Cream Flower Sweet;Mint Cream Ribbon Sweet;Lemon Cream Strawberry Sweet;Lemon Cream Berry Sweet;Lemon Cream Love Sweet;Lemon Cream Star Sweet;Lemon Cream Clover Sweet;Lemon Cream Flower Sweet;Lemon Cream Ribbon Sweet;Salted Cream Strawberry Sweet;Salted Cream Berry Sweet;Salted Cream Love Sweet;Salted Cream Star Sweet;Salted Cream Clover Sweet;Salted Cream Flower Sweet;Salted Cream Ribbon Sweet;Ruby Swirl Strawberry Sweet;Ruby Swirl Berry Sweet;Ruby Swirl Love Sweet;Ruby Swirl Star Sweet;Ruby Swirl Clover Sweet;Ruby Swirl Flower Sweet;Ruby Swirl Ribbon Sweet;Caramel Swirl Strawberry Sweet;Caramel Swirl Berry Sweet;Caramel Swirl Love Sweet;Caramel Swirl Star Sweet;Caramel Swirl Clover Sweet;Caramel Swirl Flower Sweet;Caramel Swirl Ribbon Sweet;Rainbow Swirl Strawberry Sweet;Rainbow Swirl Berry Sweet;Rainbow Swirl Love Sweet;Rainbow Swirl Star Sweet;Rainbow Swirl Clover Sweet;Rainbow Swirl Flower Sweet;Rainbow Swirl Ribbon Sweet;Gigantamax;Shiny;Berry Sweet Shiny;Love Sweet Shiny;Star Sweet Shiny;Clover Sweet Shiny;Flower Sweet Shiny;Ribbon Sweet Shiny;Gigantamax Shiny
+0870,Falinks,8,0870/0001/;0870/0002/;0870/0001/0001/;0870/0002/0001/,Brass;Trooper;Brass Shiny;Trooper Shiny
+0871,Pincurchin,8,0871/;0871/0000/0001/,Normal;Shiny
+0872,Snom,8,0872/;0872/0000/0001/,Normal;Shiny
+0873,Frosmoth,8,0873/;0873/0000/0001/,Normal;Shiny
+0874,Stonjourner,8,0874/;0874/0000/0001/,Normal;Shiny
+0875,Eiscue,8,0875/;0875/0001/;0875/0000/0001/;0875/0001/0001/,Normal;Noice;Shiny;Noice Shiny
+0876,Indeedee,8,0876/;0876/0000/0001/;0876/0000/0001/0002/;0876/0000/0000/0002/;0876/0001/0001/0002/;0876/0001/0000/0002/,Normal;Shiny;Shiny Female;Female;Alternate Shiny Female;Alternate Female
+0877,Morpeko,8,0877/;0877/0001/;0877/0000/0001/;0877/0001/0001/,Normal;Hangry;Shiny;Hangry Shiny
+0878,Cufant,8,,
+0879,Copperajah,8,0879/;0879/0000/0001/,Normal;Shiny
+0880,Dracozolt,8,0880/;0880/0000/0001/,Normal;Shiny
+0881,Arctozolt,8,0881/;0881/0000/0001/,Normal;Shiny
+0882,Dracovish,8,0882/;0882/0000/0001/,Normal;Shiny
+0883,Arctovish,8,0883/;0883/0000/0001/,Normal;Shiny
+0884,Duraludon,8,0884/;0884/0000/0001/,Normal;Shiny
+0885,Dreepy,8,0885/;0885/0000/0001/,Normal;Shiny
+0886,Drakloak,8,0886/;0886/0000/0001/,Normal;Shiny
+0887,Dragapult,8,0887/;0887/0000/0001/,Normal;Shiny
+0888,Zacian,8,0888/;0888/0001/;0888/0000/0001/;0888/0001/0001/,Normal;Crowned Sword;Shiny;Crowned Sword Shiny
+0889,Zamazenta,8,,
+0890,Eternatus,8,0890/;0890/0000/0001/,Normal;Shiny
+0891,Kubfu,8,0891/;0891/0000/0001/,Normal;Shiny
+0892,Urshifu,8,0892/;0892/0001/;0892/0000/0001/;0892/0001/0001/,Normal;Rapid Strike;Shiny;Rapid Strike Shiny
+0893,Zarude,8,,
+0894,Regieleki,8,0894/;0894/0000/0001/,Normal;Shiny
+0895,Regidrago,8,0895/;0895/0000/0001/,Normal;Shiny
+0896,Glastrier,8,,
+0897,Spectrier,8,0897/;0897/0000/0001/,Normal;Shiny
+0898,Calyrex,8,0898/;0898/0000/0001/,Normal;Shiny
+0899,Wyrdeer,8,0899/;0899/0000/0001/,Normal;Shiny
+0900,Kleavor,8,0900/;0900/0000/0001/,Normal;Shiny
+0901,Ursaluna,8,0901/;0901/0001/;0901/0000/0001/;0901/0001/0001/,Normal;Bloodmoon;Shiny;Bloodmoon Shiny
+0902,Basculegion,8,0902/;0902/0000/0001/;0902/0000/0001/0002/;0902/0000/0000/0002/,Normal;Shiny;Shiny Female;Female
+0903,Sneasler,8,0903/;0903/0000/0001/,Normal;Shiny
+0904,Overqwil,8,0904/;0904/0000/0001/,Normal;Shiny
+0905,Enamorus,8,0905/;0905/0001/;0905/0000/0001/;0905/0001/0001/,Normal;Therian;Shiny;Therian Shiny
+0906,Sprigatito,9,0906/;0906/0000/0001/,Normal;Shiny
+0907,Floragato,9,0907/;0907/0000/0001/,Normal;Shiny
+0908,Meowscarada,9,0908/;0908/0000/0001/,Normal;Shiny
+0909,Fuecoco,9,0909/;0909/0000/0001/,Normal;Shiny
+0910,Crocalor,9,0910/;0910/0000/0001/,Normal;Shiny
+0911,Skeledirge,9,0911/;0911/0000/0001/,Normal;Shiny
+0912,Quaxly,9,0912/;0912/0000/0001/,Normal;Shiny
+0913,Quaxwell,9,,
+0914,Quaquaval,9,0914/;0914/0000/0001/,Normal;Shiny
+0915,Lechonk,9,0915/;0915/0000/0001/,Normal;Shiny
+0916,Oinkologne,9,,
+0917,Tarountula,9,,
+0918,Spidops,9,0918/;0918/0000/0001/,Normal;Shiny
+0919,Nymble,9,0919/;0919/0000/0001/,Normal;Shiny
+0920,Lokix,9,0920/;0920/0000/0001/,Normal;Shiny
+0921,Pawmi,9,0921/;0921/0000/0001/,Normal;Shiny
+0922,Pawmo,9,0922/;0922/0000/0001/,Normal;Shiny
+0923,Pawmot,9,0923/;0923/0000/0001/,Normal;Shiny
+0924,Tandemaus,9,0924/;0924/0001/;0924/0002/;0924/0000/0001/;0924/0001/0001/;0924/0002/0001/,Normal;Shirt;Pants;Shiny;Shirt Shiny;Pants Shiny
+0925,Maushold,9,0925/;0925/0001/;0925/0002/;0925/0000/0001/;0925/0001/0001/,Normal;Three;Baby;Shiny;Three Shiny
+0926,Fidough,9,0926/;0926/0000/0001/,Normal;Shiny
+0927,Dachsbun,9,0927/;0927/0000/0001/,Normal;Shiny
+0928,Smoliv,9,0928/;0928/0000/0001/,Normal;Shiny
+0929,Dolliv,9,0929/;0929/0000/0001/,Normal;Shiny
+0930,Arboliva,9,,
+0931,Squawkabilly,9,,
+0932,Nacli,9,0932/;0932/0000/0001/,Normal;Shiny
+0933,Naclstack,9,0933/,Normal
+0934,Garganacl,9,0934/;0934/0000/0001/,Normal;Shiny
+0935,Charcadet,9,0935/;0935/0000/0001/,Normal;Shiny
+0936,Armarouge,9,0936/;0936/0000/0001/,Normal;Shiny
+0937,Ceruledge,9,0937/;0937/0000/0001/,Normal;Shiny
+0938,Tadbulb,9,0938/;0938/0000/0001/,Normal;Shiny
+0939,Bellibolt,9,0939/;0939/0000/0001/,Normal;Shiny
+0940,Wattrel,9,0940/;0940/0000/0001/,Normal;Shiny
+0941,Kilowattrel,9,0941/;0941/0000/0001/,Normal;Shiny
+0942,Maschiff,9,,
+0943,Mabosstiff,9,,
+0944,Shroodle,9,,
+0945,Grafaiai,9,,
+0946,Bramblin,9,,
+0947,Brambleghast,9,,
+0948,Toedscool,9,0948/,Normal
+0949,Toedscruel,9,,
+0950,Klawf,9,,
+0951,Capsakid,9,0951/;0951/0000/0001/,Normal;Shiny
+0952,Scovillain,9,0952/;0952/0000/0001/,Normal;Shiny
+0953,Rellor,9,,
+0954,Rabsca,9,,
+0955,Flittle,9,0955/;0955/0000/0001/,Normal;Shiny
+0956,Espathra,9,,
+0957,Tinkatink,9,0957/;0957/0000/0001/,Normal;Shiny
+0958,Tinkatuff,9,0958/;0958/0000/0001/,Normal;Shiny
+0959,Tinkaton,9,0959/;0959/0000/0001/,Normal;Shiny
+0960,Wiglett,9,0960/;0960/0000/0001/,Normal;Shiny
+0961,Wugtrio,9,0961/;0961/0000/0001/,Normal;Shiny
+0962,Bombirdier,9,,
+0963,Finizen,9,0963/;0963/0000/0001/,Normal;Shiny
+0964,Palafin,9,0964/;0964/0001/;0964/0000/0001/;0964/0001/0001/,Normal;Hero;Shiny;Hero Shiny
+0965,Varoom,9,0965/;0965/0000/0001/,Normal;Shiny
+0966,Revavroom,9,0966/;0966/0000/0001/,Normal;Shiny
+0967,Cyclizar,9,0967/;0967/0000/0001/,Normal;Shiny
+0968,Orthworm,9,0968/;0968/0000/0001/,Normal;Shiny
+0969,Glimmet,9,0969/;0969/0000/0001/,Normal;Shiny
+0970,Glimmora,9,0970/;0970/0000/0001/,Normal;Shiny
+0971,Greavard,9,0971/;0971/0000/0001/,Normal;Shiny
+0972,Houndstone,9,0972/;0972/0000/0001/,Normal;Shiny
+0973,Flamigo,9,,
+0974,Cetoddle,9,0974/;0974/0000/0001/,Normal;Shiny
+0975,Cetitan,9,0975/;0975/0000/0001/,Normal;Shiny
+0976,Veluza,9,0976/;0976/0000/0001/,Normal;Shiny
+0977,Dondozo,9,,
+0978,Tatsugiri,9,0978/;0978/0001/;0978/0002/;0978/0000/0001/;0978/0001/0001/;0978/0002/0001/,Normal;Stretchy;Droopy;Shiny;Stretchy Shiny;Droopy Shiny
+0979,Annihilape,9,0979/;0979/0000/0001/,Normal;Shiny
+0980,Clodsire,9,0980/;0980/0000/0001/,Normal;Shiny
+0981,Farigiraf,9,0981/;0981/0000/0001/,Normal;Shiny
+0982,Dudunsparce,9,0982/;0982/0000/0001/,Normal;Shiny
+0983,Kingambit,9,0983/;0983/0000/0001/,Normal;Shiny
+0984,Great Tusk,9,0984/;0984/0000/0001/,Normal;Shiny
+0985,Scream Tail,9,0985/;0985/0000/0001/,Normal;Shiny
+0986,Brute Bonnet,9,,
+0987,Flutter Mane,9,0987/;0987/0000/0001/,Normal;Shiny
+0988,Slither Wing,9,0988/;0988/0000/0001/,Normal;Shiny
+0989,Sandy Shocks,9,0989/;0989/0000/0001/,Normal;Shiny
+0990,Iron Treads,9,0990/;0990/0000/0001/,Normal;Shiny
+0991,Iron Bundle,9,0991/;0991/0000/0001/,Normal;Shiny
+0992,Iron Hands,9,0992/;0992/0000/0001/,Normal;Shiny
+0993,Iron Jugulis,9,,
+0994,Iron Moth,9,,
+0995,Iron Thorns,9,0995/;0995/0000/0001/,Normal;Shiny
+0996,Frigibax,9,0996/;0996/0000/0001/,Normal;Shiny
+0997,Arctibax,9,0997/;0997/0000/0001/,Normal;Shiny
+0998,Baxcalibur,9,0998/;0998/0000/0001/,Normal;Shiny
+0999,Gimmighoul,9,0999/0001/;0999/0001/0001/,Roaming;Roaming Shiny
+1000,Gholdengo,9,1000/;1000/0000/0001/,Normal;Shiny
+1001,Wo Chien,9,,
+1002,Chien Pao,9,,
+1003,Ting Lu,9,1003/;1003/0000/0001/,Normal;Shiny
+1004,Chi Yu,9,1004/;1004/0000/0001/,Normal;Shiny
+1005,Roaring Moon,9,1005/;1005/0000/0001/,Normal;Shiny
+1006,Iron Valiant,9,1006/;1006/0000/0001/,Normal;Shiny
+1007,Koraidon,9,1007/,Normal
+1008,Miraidon,9,1008/0001/;1008/0001/0001/,Low Power;Low Power Shiny
+1009,Walking Wake,9,1009/;1009/0000/0001/,Normal;Shiny
+1010,Iron Leaves,9,,
+1011,Dipplin,9,1011/;1011/0000/0001/,Normal;Shiny
+1012,Poltchageist,9,,
+1013,Sinistcha,9,,
+1014,Okidogi,9,,
+1015,Munkidori,9,1015/;1015/0000/0001/,Normal;Shiny
+1016,Fezandipiti,9,1016/;1016/0000/0001/,Normal;Shiny
+1017,Ogerpon,9,1017/;1017/0001/;1017/0002/;1017/0003/;1017/0004/;1017/0005/;1017/0006/;1017/0007/;1017/0000/0001/;1017/0001/0001/;1017/0002/0001/;1017/0003/0001/,Normal;Wellspring;Hearthflame;Cornerstone;Teal Mask;Wellspring Mask;Hearthflame Mask;Cornerstone Mask;Shiny;Wellspring Shiny;Hearthflame Shiny;Cornerstone Shiny
+1018,Archaludon,9,1018/;1018/0000/0001/,Normal;Shiny
+1019,Hydrapple,9,1019/;1019/0000/0001/,Normal;Shiny
+1020,Gouging Fire,9,1020/;1020/0000/0001/,Normal;Shiny
+1021,Raging Bolt,9,1021/;1021/0000/0001/,Normal;Shiny
+1022,Iron Boulder,9,,
+1023,Iron Crown,9,,
+1024,Terapagos,9,1024/;1024/0000/0001/,Normal;Shiny
+1025,Pecharunt,9,1025/;1025/0000/0001/,Normal;Shiny
