@@ -14,7 +14,7 @@ input pokemon_data.csv with this information in bold:
 **0002,Ivysaur,1**,0002/;0002/0001/;0002/0000/0001/,Normal;Altcolor;Shiny,1;1;1
 ...
 
-Output pokemon_selenium.csv with this information in bold updated:
+Output pokemon_selenium.csv with this information in bold updated/generated:
 number,name,generation,**variations_paths,variation_types,minimal_variants**
 0001,Bulbasaur,1,**0001/;0001/0001/;0001/0000/0001/;0001/0001/0001/,Normal;Altcolor;Shiny;Altcolor Shiny,1;1;1;1**
 0002,Ivysaur,1,**0002/;0002/0001/;0002/0000/0001/,Normal;Altcolor;Shiny,1;1;1**
